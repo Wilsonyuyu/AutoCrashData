@@ -1,0 +1,10 @@
+version: 0.0
+os: linux
+files:
+  - source: /
+    destination: /var/www/myapp
+hooks:
+  AfterInstall:
+    - location: scripts/start-server.sh
+      timeout: 300
+      runas: ec2-user
