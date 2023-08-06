@@ -2,7 +2,7 @@ const fs = require('fs');
 const https = require('https');
 const express = require('express');
 const app = express();
-const port = 3035;
+const port = 443;
 
 // Serve static files from the "public" directory
 app.use(express.static('public'));
