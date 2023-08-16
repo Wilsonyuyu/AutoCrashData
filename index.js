@@ -1,22 +1,11 @@
-const fs = require('fs');
-const https = require('https');
 const express = require('express');
 const app = express();
-const port = 443;
+const port = 80;
 
 // Serve static files from the "public" directory
 app.use(express.static('public'));
 
-// Load the SSL certificate files
-const options = {
-  key: fs.readFileSync('private.key'),
-  cert: fs.readFileSync('certificate.crt')
-};
-
-// Create an HTTPS server with the SSL certificate
-const server = https.createServer(options, app);
-
-// Start the server
-server.listen(port, () => {
+// Create an HTTP server
+const server = app.listen(port, () => {
   console.log(`Server listening on port ${port}`);
 });
