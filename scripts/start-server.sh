@@ -1,4 +1,19 @@
 #!/bin/bash
+
 # Start the server
 cd /var/www/myapp
-node index.js > app.out.log 2> app.err.log < /dev/null &
+
+# Define log file paths
+OUT_LOG="/tmp/app.out.log"
+ERR_LOG="/tmp/app.err.log"
+
+# Print a starting log entry
+TIMESTAMP=$(date +"%Y-%m-%d %H:%M:%S")
+echo "[$TIMESTAMP] Starting the server..."
+
+# Run the Node.js application in the background
+nohup node index.js > "$OUT_LOG" 2> "$ERR_LOG" &
+
+# Print a log entry indicating the server has started
+TIMESTAMP=$(date +"%Y-%m-%d %H:%M:%S")
+echo "[$TIMESTAMP] Server started successfully."
