@@ -4,11 +4,8 @@
 cd /var/www/myapp
 
 # Define log file paths
-OUT_LOG="/var/www/logs/app.out.log"
-ERR_LOG="/var/www/logs/app.err.log"
-
-sudo touch OUT_LOG
-sudo touch ERR_LOG
+OUT_LOG="/tmp/app.out.log"
+ERR_LOG="/tmp/app.err.log"
 
 # Print a starting log entry
 TIMESTAMP=$(date +"%Y-%m-%d %H:%M:%S")
