@@ -6,7 +6,6 @@ phases:
       nodejs: 18
     commands:
       - ls -al
-      - sudo rm -rf ./node_modules
       - sudo npm install
 
   build:
