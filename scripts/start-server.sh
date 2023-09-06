@@ -7,6 +7,9 @@ cd /var/www/myapp
 OUT_LOG="/var/www/logs/app.out.log"
 ERR_LOG="/var/www/logs/app.err.log"
 
+sudo touch OUT_LOG
+sudo touch ERR_LOG
+
 # Print a starting log entry
 TIMESTAMP=$(date +"%Y-%m-%d %H:%M:%S")
 echo "[$TIMESTAMP] Starting the server..." >> "$OUT_LOG"
