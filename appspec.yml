@@ -4,6 +4,10 @@ files:
   - source: /
     destination: /var/www/myapp
 hooks:
+BeforeInstall:
+    - location: scripts/before_install.sh 
+      timeout: 30
+      runas: root
   ApplicationStart:
     - location: scripts/start-server.sh
       runas: ec2-user
