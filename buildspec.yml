@@ -3,17 +3,17 @@ version: 0.2
 phases:
   install:
     runtime-versions:
-      nodejs: 18
+      nodejs: 20
     commands:
       - ls -al
       - rm -rf node_modules
       - npm cache clean --force
-      - sudo npm install
+      - npm install
 
   build:
     commands:
-      - sudo npm run build
-      - sudo ls -al
+      - npm run build
+      - ls -al
 
 artifacts:
   files:
