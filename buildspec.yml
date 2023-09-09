@@ -10,9 +10,11 @@ phases:
       - npm cache clean --force
       - npm install
 
+
   build:
     commands:
       - npm run build
+      - npm run start
       - ls -al
 
 artifacts:
