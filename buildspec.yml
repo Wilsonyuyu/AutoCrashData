@@ -15,6 +15,7 @@ phases:
     commands:
       - npm run build
       - ls -al
+      - echo "haha"
 
 artifacts:
   files:
