@@ -11,6 +11,7 @@ phases:
   build:
     commands:
       - sudo npm run build
+      - sudo ls -al
 
 artifacts:
   files:
