@@ -6,6 +6,7 @@ phases:
       nodejs: 18
     commands:
       - ls -al
+      - rm -rf node_modules
       - sudo npm install
 
   build:
@@ -16,6 +17,7 @@ phases:
 artifacts:
   files:
     - '**/*'
+    - '.*'
   name: AutoCrashData
 
 cache:
