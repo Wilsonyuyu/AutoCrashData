@@ -14,7 +14,6 @@ phases:
   build:
     commands:
       - npm run build
-      - npm run start
       - ls -al
 
 artifacts:
