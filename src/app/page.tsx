@@ -3,6 +3,13 @@
 import React, { useState, useEffect } from 'react';
 import Papa from 'papaparse';
 
+interface CsvRow {
+  Make: string;
+  Model: string;
+  // Add other properties based on your CSV columns
+}
+
+
 export default function Home() {
   const [searchTerm, setSearchTerm] = useState('');
   const [searchResult, setSearchResult] = useState('');
@@ -19,7 +26,7 @@ export default function Home() {
   
       // Parse the CSV data
       const csvData = await response.text();
-      const parsedData = Papa.parse(csvData, { header: true, skipEmptyLines: true });
+      const parsedData = Papa.parse<CsvRow>(csvData, { header: true, skipEmptyLines: true });
   
       // Implement search logic based on user input
       const results = parsedData.data.filter((row) => {
@@ -36,7 +43,7 @@ export default function Home() {
         // Handle the case when there are no results
         setSearchResult('No results found');
       }
-    } catch (error) {
+    } catch (error: any) {
       // Handle errors, e.g., log or display an error message
       console.error('Error loading or parsing CSV file:', error.message);
       setSearchResult('Error loading or parsing CSV file');
