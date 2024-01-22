@@ -35,8 +35,8 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-.gitignore
 package-lock.json
 
 /node_modules/*
 .gitignore
+.DS_Store
