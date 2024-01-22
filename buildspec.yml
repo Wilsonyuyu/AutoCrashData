@@ -1,0 +1,29 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      nodejs: 18
+    commands:
+      - ls -al
+      - rm -rf node_modules
+      - npm cache clean --force
+      - npm install
+
+
+  build:
+    commands:
+      - npm run build
+      - ls -al
+      - echo "haha"
+
+artifacts:
+  files:
+    - '**/*'
+    - '.*'
+  name: AutoCrashData
+
+cache:
+  paths:
+    - 'node_modules/**/*' # Cache `node_modules` for faster `yarn` or `npm i`
+    - '.next/cache/**/*' # Cache Next.js for faster application rebuilds
