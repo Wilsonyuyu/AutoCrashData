@@ -1,0 +1,3632 @@
+{"data": [
+  {
+    "make": "Mitsubishi",
+    "summary": {
+      "modelCount": 6,
+      "totalExposure": 657542,
+      "averageOverall": 45.833333333333336
+    },
+    "models": [
+      {
+        "model": "Mirage hatchback",
+        "data": {
+          "Make": "Mitsubishi",
+          "Model": "Mirage hatchback",
+          "Type": "4-DOOR CARS",
+          "Size": "Mini",
+          "Overall": "72",
+          "MV": "52",
+          "SV": "18",
+          "SV roll": "5",
+          "Model Years": "2014-17",
+          "Exposure": "171842"
+        }
+      },
+      {
+        "model": "Lancer 2WD",
+        "data": {
+          "Make": "Mitsubishi",
+          "Model": "Lancer 2WD",
+          "Type": "4-DOOR CARS",
+          "Size": "Small",
+          "Overall": "31",
+          "MV": "25",
+          "SV": "6",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "124110"
+        }
+      },
+      {
+        "model": "Outlander 4WD",
+        "data": {
+          "Make": "Mitsubishi",
+          "Model": "Outlander 4WD",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "7",
+          "MV": "7",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "101350"
+        }
+      },
+      {
+        "model": "Outlander Sport 2WD",
+        "data": {
+          "Make": "Mitsubishi",
+          "Model": "Outlander Sport 2WD",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "43",
+          "MV": "32",
+          "SV": "12",
+          "SV roll": "12",
+          "Model Years": "2014-17",
+          "Exposure": "1972"
+        }
+      },
+      {
+        "model": "Outlander 2WD",
+        "data": {
+          "Make": "Mitsubishi",
+          "Model": "Outlander 2WD",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "55",
+          "MV": "31",
+          "SV": "22",
+          "SV roll": "15",
+          "Model Years": "2014-17",
+          "Exposure": "105863"
+        }
+      },
+      {
+        "model": "Outlander Sport 4WD",
+        "data": {
+          "Make": "Mitsubishi",
+          "Model": "Outlander Sport 4WD",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "67",
+          "MV": "45",
+          "SV": "21",
+          "SV roll": "5",
+          "Model Years": "2014-17",
+          "Exposure": "152405"
+        }
+      }
+    ]
+  },
+  {
+    "make": "Kia",
+    "summary": {
+      "modelCount": 7,
+      "totalExposure": 3090414,
+      "averageOverall": 49.714285714285715
+    },
+    "models": [
+      {
+        "model": "Rio",
+        "data": {
+          "Make": "Kia",
+          "Model": "Rio",
+          "Type": "4-DOOR CARS",
+          "Size": "Mini",
+          "Overall": "87",
+          "MV": "51",
+          "SV": "38",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "204326"
+        }
+      },
+      {
+        "model": "Forte",
+        "data": {
+          "Make": "Kia",
+          "Model": "Forte",
+          "Type": "4-DOOR CARS",
+          "Size": "Small",
+          "Overall": "89",
+          "MV": "63",
+          "SV": "24",
+          "SV roll": "2",
+          "Model Years": "2014-17",
+          "Exposure": "778579"
+        }
+      },
+      {
+        "model": "Optima",
+        "data": {
+          "Make": "Kia",
+          "Model": "Optima",
+          "Type": "4-DOOR CARS",
+          "Size": "Midsize",
+          "Overall": "37",
+          "MV": "15",
+          "SV": "23",
+          "SV roll": "10",
+          "Model Years": "2016-17",
+          "Exposure": "302125"
+        }
+      },
+      {
+        "model": "Soul",
+        "data": {
+          "Make": "Kia",
+          "Model": "Soul",
+          "Type": "STATION WAGONS",
+          "Size": "Small",
+          "Overall": "70",
+          "MV": "50",
+          "SV": "19",
+          "SV roll": "10",
+          "Model Years": "2014-17",
+          "Exposure": "1346860"
+        }
+      },
+      {
+        "model": "Sedona",
+        "data": {
+          "Make": "Kia",
+          "Model": "Sedona",
+          "Type": "MINIVANS",
+          "Size": "Very large",
+          "Overall": "21",
+          "MV": "7",
+          "SV": "14",
+          "SV roll": "11",
+          "Model Years": "2015-17",
+          "Exposure": "21530"
+        }
+      },
+      {
+        "model": "Sorento 4WD",
+        "data": {
+          "Make": "Kia",
+          "Model": "Sorento 4WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "12",
+          "MV": "4",
+          "SV": "8",
+          "SV roll": "8",
+          "Model Years": "2016-17",
+          "Exposure": "192211"
+        }
+      },
+      {
+        "model": "Sorento 2WD",
+        "data": {
+          "Make": "Kia",
+          "Model": "Sorento 2WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "32",
+          "MV": "12",
+          "SV": "22",
+          "SV roll": "0",
+          "Model Years": "2016-17",
+          "Exposure": "244783"
+        }
+      }
+    ]
+  },
+  {
+    "make": "Hyundai",
+    "summary": {
+      "modelCount": 12,
+      "totalExposure": 3449390,
+      "averageOverall": 53.25
+    },
+    "models": [
+      {
+        "model": "Accent",
+        "data": {
+          "Make": "Hyundai",
+          "Model": "Accent",
+          "Type": "4-DOOR CARS",
+          "Size": "Mini",
+          "Overall": "116",
+          "MV": "85",
+          "SV": "28",
+          "SV roll": "9",
+          "Model Years": "2014-17",
+          "Exposure": "417171"
+        }
+      },
+      {
+        "model": "Elantra GT",
+        "data": {
+          "Make": "Hyundai",
+          "Model": "Elantra GT",
+          "Type": "4-DOOR CARS",
+          "Size": "Small",
+          "Overall": "44",
+          "MV": "19",
+          "SV": "27",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "174343"
+        }
+      },
+      {
+        "model": "Elantra",
+        "data": {
+          "Make": "Hyundai",
+          "Model": "Elantra",
+          "Type": "4-DOOR CARS",
+          "Size": "Small",
+          "Overall": "89",
+          "MV": "71",
+          "SV": "15",
+          "SV roll": "9",
+          "Model Years": "2017",
+          "Exposure": "267872"
+        }
+      },
+      {
+        "model": "Sonata",
+        "data": {
+          "Make": "Hyundai",
+          "Model": "Sonata",
+          "Type": "4-DOOR CARS",
+          "Size": "Midsize",
+          "Overall": "48",
+          "MV": "25",
+          "SV": "23",
+          "SV roll": "8",
+          "Model Years": "2015-17",
+          "Exposure": "1151787"
+        }
+      },
+      {
+        "model": "Veloster",
+        "data": {
+          "Make": "Hyundai",
+          "Model": "Veloster",
+          "Type": "2-DOOR CARS",
+          "Size": "Small",
+          "Overall": "63",
+          "MV": "39",
+          "SV": "25",
+          "SV roll": "19",
+          "Model Years": "2014-17",
+          "Exposure": "123455"
+        }
+      },
+      {
+        "model": "Accent",
+        "data": {
+          "Make": "Hyundai",
+          "Model": "Accent",
+          "Type": "STATION WAGONS",
+          "Size": "Mini",
+          "Overall": "81",
+          "MV": "64",
+          "SV": "17",
+          "SV roll": "9",
+          "Model Years": "2014-17",
+          "Exposure": "18481"
+        }
+      },
+      {
+        "model": "Tucson 4WD",
+        "data": {
+          "Make": "Hyundai",
+          "Model": "Tucson 4WD",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "18",
+          "MV": "12",
+          "SV": "5",
+          "SV roll": "0",
+          "Model Years": "2016-17",
+          "Exposure": "148722"
+        }
+      },
+      {
+        "model": "Tucson 2WD",
+        "data": {
+          "Make": "Hyundai",
+          "Model": "Tucson 2WD",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "61",
+          "MV": "37",
+          "SV": "21",
+          "SV roll": "9",
+          "Model Years": "2016-17",
+          "Exposure": "185863"
+        }
+      },
+      {
+        "model": "Santa Fe 4WD",
+        "data": {
+          "Make": "Hyundai",
+          "Model": "Santa Fe 4WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "13",
+          "MV": "0",
+          "SV": "13",
+          "SV roll": "7",
+          "Model Years": "2014-17",
+          "Exposure": "116678"
+        }
+      },
+      {
+        "model": "Santa Fe 2WD",
+        "data": {
+          "Make": "Hyundai",
+          "Model": "Santa Fe 2WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "16",
+          "MV": "0",
+          "SV": "16",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "126743"
+        }
+      },
+      {
+        "model": "Santa Fe Sport 4WD",
+        "data": {
+          "Make": "Hyundai",
+          "Model": "Santa Fe Sport 4WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "39",
+          "MV": "9",
+          "SV": "35",
+          "SV roll": "15",
+          "Model Years": "2014-17",
+          "Exposure": "296306"
+        }
+      },
+      {
+        "model": "Santa Fe Sport 2WD",
+        "data": {
+          "Make": "Hyundai",
+          "Model": "Santa Fe Sport 2WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "51",
+          "MV": "26",
+          "SV": "26",
+          "SV roll": "15",
+          "Model Years": "2014-17",
+          "Exposure": "421969"
+        }
+      }
+    ]
+  },
+  {
+    "make": "Ford",
+    "summary": {
+      "modelCount": 27,
+      "totalExposure": 14020925,
+      "averageOverall": 38.2962962962963
+    },
+    "models": [
+      {
+        "model": "Fiesta",
+        "data": {
+          "Make": "Ford",
+          "Model": "Fiesta",
+          "Type": "4-DOOR CARS",
+          "Size": "Mini",
+          "Overall": "141",
+          "MV": "98",
+          "SV": "46",
+          "SV roll": "13",
+          "Model Years": "2014-17",
+          "Exposure": "357492"
+        }
+      },
+      {
+        "model": "Focus",
+        "data": {
+          "Make": "Ford",
+          "Model": "Focus",
+          "Type": "4-DOOR CARS",
+          "Size": "Small",
+          "Overall": "68",
+          "MV": "48",
+          "SV": "19",
+          "SV roll": "9",
+          "Model Years": "2014-17",
+          "Exposure": "1329370"
+        }
+      },
+      {
+        "model": "Fusion plug-in hybrid",
+        "data": {
+          "Make": "Ford",
+          "Model": "Fusion plug-in hybrid",
+          "Type": "4-DOOR CARS",
+          "Size": "Midsize",
+          "Overall": "15",
+          "MV": "0",
+          "SV": "15",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "100620"
+        }
+      },
+      {
+        "model": "Fusion 4WD",
+        "data": {
+          "Make": "Ford",
+          "Model": "Fusion 4WD",
+          "Type": "4-DOOR CARS",
+          "Size": "Midsize",
+          "Overall": "22",
+          "MV": "11",
+          "SV": "11",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "135342"
+        }
+      },
+      {
+        "model": "Fusion hybrid 2WD",
+        "data": {
+          "Make": "Ford",
+          "Model": "Fusion hybrid 2WD",
+          "Type": "4-DOOR CARS",
+          "Size": "Midsize",
+          "Overall": "34",
+          "MV": "28",
+          "SV": "5",
+          "SV roll": "6",
+          "Model Years": "2014-17",
+          "Exposure": "294573"
+        }
+      },
+      {
+        "model": "Fusion 2WD",
+        "data": {
+          "Make": "Ford",
+          "Model": "Fusion 2WD",
+          "Type": "4-DOOR CARS",
+          "Size": "Midsize",
+          "Overall": "39",
+          "MV": "29",
+          "SV": "10",
+          "SV roll": "3",
+          "Model Years": "2014-17",
+          "Exposure": "2181340"
+        }
+      },
+      {
+        "model": "Mustang coupe",
+        "data": {
+          "Make": "Ford",
+          "Model": "Mustang coupe",
+          "Type": "SPORTS CARS",
+          "Size": "Midsize",
+          "Overall": "45",
+          "MV": "42",
+          "SV": "3",
+          "SV roll": "0",
+          "Model Years": "2015-17",
+          "Exposure": "279661"
+        }
+      },
+      {
+        "model": "Mustang GT coupe",
+        "data": {
+          "Make": "Ford",
+          "Model": "Mustang GT coupe",
+          "Type": "SPORTS CARS",
+          "Size": "Midsize",
+          "Overall": "81",
+          "MV": "58",
+          "SV": "23",
+          "SV roll": "12",
+          "Model Years": "2015-17",
+          "Exposure": "202978"
+        }
+      },
+      {
+        "model": "Fiesta",
+        "data": {
+          "Make": "Ford",
+          "Model": "Fiesta",
+          "Type": "STATION WAGONS",
+          "Size": "Mini",
+          "Overall": "65",
+          "MV": "58",
+          "SV": "5",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "28993"
+        }
+      },
+      {
+        "model": "C-Max hybrid",
+        "data": {
+          "Make": "Ford",
+          "Model": "C-Max hybrid",
+          "Type": "STATION WAGONS",
+          "Size": "Small",
+          "Overall": "37",
+          "MV": "37",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "115963"
+        }
+      },
+      {
+        "model": "Focus",
+        "data": {
+          "Make": "Ford",
+          "Model": "Focus",
+          "Type": "STATION WAGONS",
+          "Size": "Small",
+          "Overall": "60",
+          "MV": "34",
+          "SV": "26",
+          "SV roll": "6",
+          "Model Years": "2014-17",
+          "Exposure": "841734"
+        }
+      },
+      {
+        "model": "Escape 4WD",
+        "data": {
+          "Make": "Ford",
+          "Model": "Escape 4WD",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "24",
+          "MV": "16",
+          "SV": "7",
+          "SV roll": "4",
+          "Model Years": "2014-17",
+          "Exposure": "1351272"
+        }
+      },
+      {
+        "model": "Escape 2WD",
+        "data": {
+          "Make": "Ford",
+          "Model": "Escape 2WD",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "29",
+          "MV": "22",
+          "SV": "6",
+          "SV roll": "2",
+          "Model Years": "2014-17",
+          "Exposure": "1768510"
+        }
+      },
+      {
+        "model": "Explorer 4WD",
+        "data": {
+          "Make": "Ford",
+          "Model": "Explorer 4WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "13",
+          "MV": "10",
+          "SV": "3",
+          "SV roll": "1",
+          "Model Years": "2016-17",
+          "Exposure": "604755"
+        }
+      },
+      {
+        "model": "Edge 4WD",
+        "data": {
+          "Make": "Ford",
+          "Model": "Edge 4WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "20",
+          "MV": "10",
+          "SV": "11",
+          "SV roll": "5",
+          "Model Years": "2015-17",
+          "Exposure": "445718"
+        }
+      },
+      {
+        "model": "Edge 2WD",
+        "data": {
+          "Make": "Ford",
+          "Model": "Edge 2WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "21",
+          "MV": "11",
+          "SV": "12",
+          "SV roll": "0",
+          "Model Years": "2015-17",
+          "Exposure": "269325"
+        }
+      },
+      {
+        "model": "Explorer 2WD",
+        "data": {
+          "Make": "Ford",
+          "Model": "Explorer 2WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "33",
+          "MV": "21",
+          "SV": "11",
+          "SV roll": "6",
+          "Model Years": "2016-17",
+          "Exposure": "279681"
+        }
+      },
+      {
+        "model": "Flex 2WD",
+        "data": {
+          "Make": "Ford",
+          "Model": "Flex 2WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "38",
+          "MV": "38",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "166244"
+        }
+      },
+      {
+        "model": "Expedition 4WD",
+        "data": {
+          "Make": "Ford",
+          "Model": "Expedition 4WD",
+          "Type": "SUVs",
+          "Size": "Large",
+          "Overall": "17",
+          "MV": "6",
+          "SV": "11",
+          "SV roll": "6",
+          "Model Years": "2014-17",
+          "Exposure": "137374"
+        }
+      },
+      {
+        "model": "Expedition 2WD",
+        "data": {
+          "Make": "Ford",
+          "Model": "Expedition 2WD",
+          "Type": "SUVs",
+          "Size": "Large",
+          "Overall": "55",
+          "MV": "24",
+          "SV": "29",
+          "SV roll": "15",
+          "Model Years": "2014-17",
+          "Exposure": "105353"
+        }
+      },
+      {
+        "model": "Expedition EL 4WD",
+        "data": {
+          "Make": "Ford",
+          "Model": "Expedition EL 4WD",
+          "Type": "SUVs",
+          "Size": "Very large",
+          "Overall": "16",
+          "MV": "16",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "126577"
+        }
+      },
+      {
+        "model": "F-150 Supercab 4WD",
+        "data": {
+          "Make": "Ford",
+          "Model": "F-150 Supercab 4WD",
+          "Type": "Pickups",
+          "Size": "Large",
+          "Overall": "11",
+          "MV": "2",
+          "SV": "10",
+          "SV roll": "2",
+          "Model Years": "2015-17",
+          "Exposure": "395598"
+        }
+      },
+      {
+        "model": "F-150 Supercab 2WD",
+        "data": {
+          "Make": "Ford",
+          "Model": "F-150 Supercab 2WD",
+          "Type": "Pickups",
+          "Size": "Large",
+          "Overall": "23",
+          "MV": "12",
+          "SV": "12",
+          "SV roll": "0",
+          "Model Years": "2015-17",
+          "Exposure": "193828"
+        }
+      },
+      {
+        "model": "F-150 Crew Cab 4WD",
+        "data": {
+          "Make": "Ford",
+          "Model": "F-150 Crew Cab 4WD",
+          "Type": "Pickups",
+          "Size": "Large",
+          "Overall": "25",
+          "MV": "11",
+          "SV": "15",
+          "SV roll": "7",
+          "Model Years": "2015-17",
+          "Exposure": "1552783"
+        }
+      },
+      {
+        "model": "F-150 Crew Cab 2WD",
+        "data": {
+          "Make": "Ford",
+          "Model": "F-150 Crew Cab 2WD",
+          "Type": "Pickups",
+          "Size": "Large",
+          "Overall": "30",
+          "MV": "20",
+          "SV": "9",
+          "SV roll": "3",
+          "Model Years": "2015-17",
+          "Exposure": "498303"
+        }
+      },
+      {
+        "model": "F-150 2WD",
+        "data": {
+          "Make": "Ford",
+          "Model": "F-150 2WD",
+          "Type": "Pickups",
+          "Size": "Large",
+          "Overall": "42",
+          "MV": "36",
+          "SV": "7",
+          "SV roll": "8",
+          "Model Years": "2015-17",
+          "Exposure": "107246"
+        }
+      },
+      {
+        "model": "F250 Crew Cab 4WD",
+        "data": {
+          "Make": "Ford",
+          "Model": "F250 Crew Cab 4WD",
+          "Type": "Pickups",
+          "Size": "Very large",
+          "Overall": "30",
+          "MV": "15",
+          "SV": "15",
+          "SV roll": "0",
+          "Model Years": "2017",
+          "Exposure": "150292"
+        }
+      }
+    ]
+  },
+  {
+    "make": "Volkswagen",
+    "summary": {
+      "modelCount": 6,
+      "totalExposure": 1881789,
+      "averageOverall": 21.333333333333332
+    },
+    "models": [
+      {
+        "model": "Golf",
+        "data": {
+          "Make": "Volkswagen",
+          "Model": "Golf",
+          "Type": "4-DOOR CARS",
+          "Size": "Small",
+          "Overall": "0",
+          "MV": "0",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2015-17",
+          "Exposure": "10884"
+        }
+      },
+      {
+        "model": "GTI",
+        "data": {
+          "Make": "Volkswagen",
+          "Model": "GTI",
+          "Type": "4-DOOR CARS",
+          "Size": "Small",
+          "Overall": "11",
+          "MV": "11",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2015-17",
+          "Exposure": "137682"
+        }
+      },
+      {
+        "model": "Jetta",
+        "data": {
+          "Make": "Volkswagen",
+          "Model": "Jetta",
+          "Type": "4-DOOR CARS",
+          "Size": "Midsize",
+          "Overall": "53",
+          "MV": "34",
+          "SV": "19",
+          "SV roll": "4",
+          "Model Years": "2014-17",
+          "Exposure": "1298283"
+        }
+      },
+      {
+        "model": "Beetle",
+        "data": {
+          "Make": "Volkswagen",
+          "Model": "Beetle",
+          "Type": "2-DOOR CARS",
+          "Size": "Small",
+          "Overall": "11",
+          "MV": "6",
+          "SV": "6",
+          "SV roll": "6",
+          "Model Years": "2014-17",
+          "Exposure": "132929"
+        }
+      },
+      {
+        "model": "Tiguan 2WD",
+        "data": {
+          "Make": "Volkswagen",
+          "Model": "Tiguan 2WD",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "24",
+          "MV": "10",
+          "SV": "15",
+          "SV roll": "5",
+          "Model Years": "2014-17",
+          "Exposure": "156404"
+        }
+      },
+      {
+        "model": "Tiguan 4WD",
+        "data": {
+          "Make": "Volkswagen",
+          "Model": "Tiguan 4WD",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "29",
+          "MV": "16",
+          "SV": "16",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "145607"
+        }
+      }
+    ]
+  },
+  {
+    "make": "Nissan",
+    "summary": {
+      "modelCount": 17,
+      "totalExposure": 10541683,
+      "averageOverall": 43.64705882352941
+    },
+    "models": [
+      {
+        "model": "Leaf",
+        "data": {
+          "Make": "Nissan",
+          "Model": "Leaf",
+          "Type": "4-DOOR CARS",
+          "Size": "Small",
+          "Overall": "5",
+          "MV": "0",
+          "SV": "5",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "164259"
+        }
+      },
+      {
+        "model": "Juke 2WD",
+        "data": {
+          "Make": "Nissan",
+          "Model": "Juke 2WD",
+          "Type": "4-DOOR CARS",
+          "Size": "Small",
+          "Overall": "12",
+          "MV": "6",
+          "SV": "6",
+          "SV roll": "6",
+          "Model Years": "2014-17",
+          "Exposure": "126805"
+        }
+      },
+      {
+        "model": "Juke 4WD",
+        "data": {
+          "Make": "Nissan",
+          "Model": "Juke 4WD",
+          "Type": "4-DOOR CARS",
+          "Size": "Small",
+          "Overall": "65",
+          "MV": "22",
+          "SV": "48",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "115704"
+        }
+      },
+      {
+        "model": "Sentra",
+        "data": {
+          "Make": "Nissan",
+          "Model": "Sentra",
+          "Type": "4-DOOR CARS",
+          "Size": "Small",
+          "Overall": "81",
+          "MV": "53",
+          "SV": "26",
+          "SV roll": "11",
+          "Model Years": "2014-17",
+          "Exposure": "1950927"
+        }
+      },
+      {
+        "model": "Versa",
+        "data": {
+          "Make": "Nissan",
+          "Model": "Versa",
+          "Type": "4-DOOR CARS",
+          "Size": "Small",
+          "Overall": "88",
+          "MV": "49",
+          "SV": "42",
+          "SV roll": "14",
+          "Model Years": "2014-17",
+          "Exposure": "828218"
+        }
+      },
+      {
+        "model": "Altima",
+        "data": {
+          "Make": "Nissan",
+          "Model": "Altima",
+          "Type": "4-DOOR CARS",
+          "Size": "Midsize",
+          "Overall": "59",
+          "MV": "37",
+          "SV": "21",
+          "SV roll": "5",
+          "Model Years": "2014-17",
+          "Exposure": "3228915"
+        }
+      },
+      {
+        "model": "Maxima",
+        "data": {
+          "Make": "Nissan",
+          "Model": "Maxima",
+          "Type": "4-DOOR CARS",
+          "Size": "Midsize",
+          "Overall": "68",
+          "MV": "33",
+          "SV": "38",
+          "SV roll": "4",
+          "Model Years": "2016-17",
+          "Exposure": "226899"
+        }
+      },
+      {
+        "model": "Versa Note",
+        "data": {
+          "Make": "Nissan",
+          "Model": "Versa Note",
+          "Type": "STATION WAGONS",
+          "Size": "Small",
+          "Overall": "96",
+          "MV": "80",
+          "SV": "12",
+          "SV roll": "7",
+          "Model Years": "2014-17",
+          "Exposure": "600256"
+        }
+      },
+      {
+        "model": "Rogue 4WD",
+        "data": {
+          "Make": "Nissan",
+          "Model": "Rogue 4WD",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "13",
+          "MV": "9",
+          "SV": "5",
+          "SV roll": "3",
+          "Model Years": "2014-17",
+          "Exposure": "1202111"
+        }
+      },
+      {
+        "model": "Rogue 2WD",
+        "data": {
+          "Make": "Nissan",
+          "Model": "Rogue 2WD",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "51",
+          "MV": "38",
+          "SV": "11",
+          "SV roll": "1",
+          "Model Years": "2014-17",
+          "Exposure": "891138"
+        }
+      },
+      {
+        "model": "Murano 4WD",
+        "data": {
+          "Make": "Nissan",
+          "Model": "Murano 4WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "19",
+          "MV": "19",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2015-17",
+          "Exposure": "25149"
+        }
+      },
+      {
+        "model": "Murano 2WD",
+        "data": {
+          "Make": "Nissan",
+          "Model": "Murano 2WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "19",
+          "MV": "19",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2015-17",
+          "Exposure": "184170"
+        }
+      },
+      {
+        "model": "Pathfinder 4WD",
+        "data": {
+          "Make": "Nissan",
+          "Model": "Pathfinder 4WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "20",
+          "MV": "7",
+          "SV": "14",
+          "SV roll": "12",
+          "Model Years": "2014-17",
+          "Exposure": "4504"
+        }
+      },
+      {
+        "model": "Pathfinder 2WD",
+        "data": {
+          "Make": "Nissan",
+          "Model": "Pathfinder 2WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "25",
+          "MV": "20",
+          "SV": "4",
+          "SV roll": "2",
+          "Model Years": "2014-17",
+          "Exposure": "386988"
+        }
+      },
+      {
+        "model": "Frontier Crew Cab short bed 4WD",
+        "data": {
+          "Make": "Nissan",
+          "Model": "Frontier Crew Cab short bed 4WD",
+          "Type": "Pickups",
+          "Size": "Small",
+          "Overall": "21",
+          "MV": "7",
+          "SV": "15",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "212739"
+        }
+      },
+      {
+        "model": "Frontier King Cab 2WD",
+        "data": {
+          "Make": "Nissan",
+          "Model": "Frontier King Cab 2WD",
+          "Type": "Pickups",
+          "Size": "Small",
+          "Overall": "42",
+          "MV": "37",
+          "SV": "4",
+          "SV roll": "5",
+          "Model Years": "2014-17",
+          "Exposure": "172775"
+        }
+      },
+      {
+        "model": "Frontier Crew Cab short bed 2WD",
+        "data": {
+          "Make": "Nissan",
+          "Model": "Frontier Crew Cab short bed 2WD",
+          "Type": "Pickups",
+          "Size": "Small",
+          "Overall": "58",
+          "MV": "49",
+          "SV": "11",
+          "SV roll": "7",
+          "Model Years": "2014-17",
+          "Exposure": "220126"
+        }
+      }
+    ]
+  },
+  {
+    "make": "Acura",
+    "summary": {
+      "modelCount": 4,
+      "totalExposure": 885965,
+      "averageOverall": 15.75
+    },
+    "models": [
+      {
+        "model": "ILX",
+        "data": {
+          "Make": "Acura",
+          "Model": "ILX",
+          "Type": "4-DOOR CARS",
+          "Size": "Small",
+          "Overall": "26",
+          "MV": "20",
+          "SV": "5",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "162116"
+        }
+      },
+      {
+        "model": "TLX 2WD",
+        "data": {
+          "Make": "Acura",
+          "Model": "TLX 2WD",
+          "Type": "LUXURY CARS",
+          "Size": "Midsize",
+          "Overall": "21",
+          "MV": "13",
+          "SV": "10",
+          "SV roll": "0",
+          "Model Years": "2015-17",
+          "Exposure": "240896"
+        }
+      },
+      {
+        "model": "RDX 2WD",
+        "data": {
+          "Make": "Acura",
+          "Model": "RDX 2WD",
+          "Type": "Luxury SUVs",
+          "Size": "Midsize",
+          "Overall": "4",
+          "MV": "4",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "189668"
+        }
+      },
+      {
+        "model": "RDX 4WD",
+        "data": {
+          "Make": "Acura",
+          "Model": "RDX 4WD",
+          "Type": "Luxury SUVs",
+          "Size": "Midsize",
+          "Overall": "12",
+          "MV": "12",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "293285"
+        }
+      }
+    ]
+  },
+  {
+    "make": "Mazda",
+    "summary": {
+      "modelCount": 3,
+      "totalExposure": 1520250,
+      "averageOverall": 35.666666666666664
+    },
+    "models": [
+      {
+        "model": "3 hatchback",
+        "data": {
+          "Make": "Mazda",
+          "Model": "3 hatchback",
+          "Type": "4-DOOR CARS",
+          "Size": "Small",
+          "Overall": "27",
+          "MV": "12",
+          "SV": "16",
+          "SV roll": "2",
+          "Model Years": "2014-17",
+          "Exposure": "348619"
+        }
+      },
+      {
+        "model": "3 sedan",
+        "data": {
+          "Make": "Mazda",
+          "Model": "3 sedan",
+          "Type": "4-DOOR CARS",
+          "Size": "Small",
+          "Overall": "39",
+          "MV": "27",
+          "SV": "13",
+          "SV roll": "1",
+          "Model Years": "2014-17",
+          "Exposure": "602393"
+        }
+      },
+      {
+        "model": "6 2WD",
+        "data": {
+          "Make": "Mazda",
+          "Model": "6 2WD",
+          "Type": "4-DOOR CARS",
+          "Size": "Midsize",
+          "Overall": "41",
+          "MV": "24",
+          "SV": "18",
+          "SV roll": "4",
+          "Model Years": "2014-17",
+          "Exposure": "569238"
+        }
+      }
+    ]
+  },
+  {
+    "make": "Honda",
+    "summary": {
+      "modelCount": 11,
+      "totalExposure": 3314520,
+      "averageOverall": 28.545454545454547
+    },
+    "models": [
+      {
+        "model": "Civic",
+        "data": {
+          "Make": "Honda",
+          "Model": "Civic",
+          "Type": "4-DOOR CARS",
+          "Size": "Small",
+          "Overall": "46",
+          "MV": "30",
+          "SV": "15",
+          "SV roll": "4",
+          "Model Years": "2016-17",
+          "Exposure": "91243"
+        }
+      },
+      {
+        "model": "Accord",
+        "data": {
+          "Make": "Honda",
+          "Model": "Accord",
+          "Type": "4-DOOR CARS",
+          "Size": "Midsize",
+          "Overall": "34",
+          "MV": "24",
+          "SV": "9",
+          "SV roll": "3",
+          "Model Years": "2014-17",
+          "Exposure": "320332"
+        }
+      },
+      {
+        "model": "Accord",
+        "data": {
+          "Make": "Honda",
+          "Model": "Accord",
+          "Type": "2-DOOR CARS",
+          "Size": "Midsize",
+          "Overall": "48",
+          "MV": "18",
+          "SV": "30",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "235384"
+        }
+      },
+      {
+        "model": "Fit",
+        "data": {
+          "Make": "Honda",
+          "Model": "Fit",
+          "Type": "STATION WAGONS",
+          "Size": "Mini",
+          "Overall": "48",
+          "MV": "31",
+          "SV": "17",
+          "SV roll": "4",
+          "Model Years": "2015-17",
+          "Exposure": "412993"
+        }
+      },
+      {
+        "model": "Odyssey",
+        "data": {
+          "Make": "Honda",
+          "Model": "Odyssey",
+          "Type": "MINIVANS",
+          "Size": "Very large",
+          "Overall": "8",
+          "MV": "4",
+          "SV": "5",
+          "SV roll": "2",
+          "Model Years": "2014-17",
+          "Exposure": "1289578"
+        }
+      },
+      {
+        "model": "HR-V 4WD",
+        "data": {
+          "Make": "Honda",
+          "Model": "HR-V 4WD",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "9",
+          "MV": "0",
+          "SV": "9",
+          "SV roll": "5",
+          "Model Years": "2016-17",
+          "Exposure": "177447"
+        }
+      },
+      {
+        "model": "CR-V 2WD",
+        "data": {
+          "Make": "Honda",
+          "Model": "CR-V 2WD",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "18",
+          "MV": "18",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2017",
+          "Exposure": "110439"
+        }
+      },
+      {
+        "model": "CR-V 4WD",
+        "data": {
+          "Make": "Honda",
+          "Model": "CR-V 4WD",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "25",
+          "MV": "20",
+          "SV": "4",
+          "SV roll": "0",
+          "Model Years": "2017",
+          "Exposure": "20294"
+        }
+      },
+      {
+        "model": "HR-V 2WD",
+        "data": {
+          "Make": "Honda",
+          "Model": "HR-V 2WD",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "50",
+          "MV": "36",
+          "SV": "11",
+          "SV roll": "6",
+          "Model Years": "2016-17",
+          "Exposure": "140934"
+        }
+      },
+      {
+        "model": "Pilot 4WD",
+        "data": {
+          "Make": "Honda",
+          "Model": "Pilot 4WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "11",
+          "MV": "11",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2016-17",
+          "Exposure": "354126"
+        }
+      },
+      {
+        "model": "Pilot 2WD",
+        "data": {
+          "Make": "Honda",
+          "Model": "Pilot 2WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "17",
+          "MV": "5",
+          "SV": "15",
+          "SV roll": "14",
+          "Model Years": "2016-17",
+          "Exposure": "161750"
+        }
+      }
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "summary": {
+      "modelCount": 29,
+      "totalExposure": 12252685,
+      "averageOverall": 37.724137931034484
+    },
+    "models": [
+      {
+        "model": "Cruze",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Cruze",
+          "Type": "4-DOOR CARS",
+          "Size": "Small",
+          "Overall": "49",
+          "MV": "35",
+          "SV": "13",
+          "SV roll": "5",
+          "Model Years": "2016-17",
+          "Exposure": "351592"
+        }
+      },
+      {
+        "model": "Sonic",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Sonic",
+          "Type": "4-DOOR CARS",
+          "Size": "Small",
+          "Overall": "98",
+          "MV": "64",
+          "SV": "34",
+          "SV roll": "10",
+          "Model Years": "2014-17",
+          "Exposure": "418163"
+        }
+      },
+      {
+        "model": "Malibu",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Malibu",
+          "Type": "4-DOOR CARS",
+          "Size": "Midsize",
+          "Overall": "61",
+          "MV": "36",
+          "SV": "24",
+          "SV roll": "13",
+          "Model Years": "2016-17",
+          "Exposure": "479411"
+        }
+      },
+      {
+        "model": "Impala",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Impala",
+          "Type": "4-DOOR CARS",
+          "Size": "Large",
+          "Overall": "57",
+          "MV": "39",
+          "SV": "16",
+          "SV roll": "9",
+          "Model Years": "2014-17",
+          "Exposure": "90514"
+        }
+      },
+      {
+        "model": "Corvette coupe",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Corvette coupe",
+          "Type": "SPORTS CARS",
+          "Size": "Midsize",
+          "Overall": "54",
+          "MV": "4",
+          "SV": "53",
+          "SV roll": "13",
+          "Model Years": "2014-17",
+          "Exposure": "192396"
+        }
+      },
+      {
+        "model": "Camaro coupe",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Camaro coupe",
+          "Type": "SPORTS CARS",
+          "Size": "Large",
+          "Overall": "39",
+          "MV": "6",
+          "SV": "35",
+          "SV roll": "18",
+          "Model Years": "2016-17",
+          "Exposure": "134504"
+        }
+      },
+      {
+        "model": "Sonic",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Sonic",
+          "Type": "STATION WAGONS",
+          "Size": "Small",
+          "Overall": "74",
+          "MV": "59",
+          "SV": "13",
+          "SV roll": "13",
+          "Model Years": "2014-17",
+          "Exposure": "244549"
+        }
+      },
+      {
+        "model": "Trax 4WD",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Trax 4WD",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "45",
+          "MV": "15",
+          "SV": "33",
+          "SV roll": "0",
+          "Model Years": "2015-17",
+          "Exposure": "166173"
+        }
+      },
+      {
+        "model": "Trax 2WD",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Trax 2WD",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "73",
+          "MV": "40",
+          "SV": "37",
+          "SV roll": "20",
+          "Model Years": "2015-17",
+          "Exposure": "233527"
+        }
+      },
+      {
+        "model": "Equinox 4WD",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Equinox 4WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "29",
+          "MV": "20",
+          "SV": "9",
+          "SV roll": "2",
+          "Model Years": "2014-17",
+          "Exposure": "795787"
+        }
+      },
+      {
+        "model": "Equinox 2WD",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Equinox 2WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "45",
+          "MV": "32",
+          "SV": "12",
+          "SV roll": "6",
+          "Model Years": "2014-17",
+          "Exposure": "1523947"
+        }
+      },
+      {
+        "model": "Tahoe 4WD",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Tahoe 4WD",
+          "Type": "SUVs",
+          "Size": "Large",
+          "Overall": "19",
+          "MV": "12",
+          "SV": "6",
+          "SV roll": "4",
+          "Model Years": "2015-17",
+          "Exposure": "412450"
+        }
+      },
+      {
+        "model": "Traverse 2WD",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Traverse 2WD",
+          "Type": "SUVs",
+          "Size": "Large",
+          "Overall": "27",
+          "MV": "16",
+          "SV": "11",
+          "SV roll": "3",
+          "Model Years": "2014-17",
+          "Exposure": "636416"
+        }
+      },
+      {
+        "model": "Tahoe 2WD",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Tahoe 2WD",
+          "Type": "SUVs",
+          "Size": "Large",
+          "Overall": "28",
+          "MV": "13",
+          "SV": "17",
+          "SV roll": "7",
+          "Model Years": "2015-17",
+          "Exposure": "322663"
+        }
+      },
+      {
+        "model": "Traverse 4WD",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Traverse 4WD",
+          "Type": "SUVs",
+          "Size": "Large",
+          "Overall": "29",
+          "MV": "19",
+          "SV": "9",
+          "SV roll": "2",
+          "Model Years": "2014-17",
+          "Exposure": "435946"
+        }
+      },
+      {
+        "model": "Suburban 1500 4WD",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Suburban 1500 4WD",
+          "Type": "SUVs",
+          "Size": "Very large",
+          "Overall": "8",
+          "MV": "8",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2015-17",
+          "Exposure": "27888"
+        }
+      },
+      {
+        "model": "Suburban 1500 2WD",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Suburban 1500 2WD",
+          "Type": "SUVs",
+          "Size": "Very large",
+          "Overall": "25",
+          "MV": "0",
+          "SV": "25",
+          "SV roll": "0",
+          "Model Years": "2015-17",
+          "Exposure": "141444"
+        }
+      },
+      {
+        "model": "Colorado Ext. Cab 2WD",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Colorado Ext. Cab 2WD",
+          "Type": "Pickups",
+          "Size": "Small",
+          "Overall": "15",
+          "MV": "0",
+          "SV": "15",
+          "SV roll": "8",
+          "Model Years": "2015-17",
+          "Exposure": "10149"
+        }
+      },
+      {
+        "model": "Colorado Crew Cab 2WD",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Colorado Crew Cab 2WD",
+          "Type": "Pickups",
+          "Size": "Small",
+          "Overall": "16",
+          "MV": "5",
+          "SV": "11",
+          "SV roll": "6",
+          "Model Years": "2015-17",
+          "Exposure": "141790"
+        }
+      },
+      {
+        "model": "Colorado Crew Cab 4WD",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Colorado Crew Cab 4WD",
+          "Type": "Pickups",
+          "Size": "Small",
+          "Overall": "32",
+          "MV": "21",
+          "SV": "10",
+          "SV roll": "7",
+          "Model Years": "2015-17",
+          "Exposure": "240560"
+        }
+      },
+      {
+        "model": "Silverado 1500 Ext. Cab 4WD",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Silverado 1500 Ext. Cab 4WD",
+          "Type": "Pickups",
+          "Size": "Large",
+          "Overall": "24",
+          "MV": "13",
+          "SV": "11",
+          "SV roll": "3",
+          "Model Years": "2014-17",
+          "Exposure": "1152425"
+        }
+      },
+      {
+        "model": "Silverado 1500 Crew Cab 4WD",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Silverado 1500 Crew Cab 4WD",
+          "Type": "Pickups",
+          "Size": "Large",
+          "Overall": "26",
+          "MV": "15",
+          "SV": "11",
+          "SV roll": "4",
+          "Model Years": "2014-17",
+          "Exposure": "1769896"
+        }
+      },
+      {
+        "model": "Silverado 1500 2WD",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Silverado 1500 2WD",
+          "Type": "Pickups",
+          "Size": "Large",
+          "Overall": "32",
+          "MV": "19",
+          "SV": "13",
+          "SV roll": "3",
+          "Model Years": "2014-17",
+          "Exposure": "236798"
+        }
+      },
+      {
+        "model": "Silverado 1500 Ext. Cab 2WD",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Silverado 1500 Ext. Cab 2WD",
+          "Type": "Pickups",
+          "Size": "Large",
+          "Overall": "37",
+          "MV": "24",
+          "SV": "13",
+          "SV roll": "6",
+          "Model Years": "2014-17",
+          "Exposure": "432361"
+        }
+      },
+      {
+        "model": "Silverado 1500 4WD",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Silverado 1500 4WD",
+          "Type": "Pickups",
+          "Size": "Large",
+          "Overall": "51",
+          "MV": "26",
+          "SV": "26",
+          "SV roll": "14",
+          "Model Years": "2014-17",
+          "Exposure": "119212"
+        }
+      },
+      {
+        "model": "Silverado 1500 Crew Cab 2WD",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Silverado 1500 Crew Cab 2WD",
+          "Type": "Pickups",
+          "Size": "Large",
+          "Overall": "54",
+          "MV": "30",
+          "SV": "25",
+          "SV roll": "3",
+          "Model Years": "2014-17",
+          "Exposure": "713318"
+        }
+      },
+      {
+        "model": "Silverado 2500 Ext. Cab 4WD",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Silverado 2500 Ext. Cab 4WD",
+          "Type": "Pickups",
+          "Size": "Very large",
+          "Overall": "15",
+          "MV": "10",
+          "SV": "5",
+          "SV roll": "0",
+          "Model Years": "2015-17",
+          "Exposure": "150684"
+        }
+      },
+      {
+        "model": "Silverado 3500 Crew Cab 4WD",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Silverado 3500 Crew Cab 4WD",
+          "Type": "Pickups",
+          "Size": "Very large",
+          "Overall": "15",
+          "MV": "0",
+          "SV": "15",
+          "SV roll": "5",
+          "Model Years": "2015-17",
+          "Exposure": "151813"
+        }
+      },
+      {
+        "model": "Silverado 2500 Crew Cab 4WD",
+        "data": {
+          "Make": "Chevrolet",
+          "Model": "Silverado 2500 Crew Cab 4WD",
+          "Type": "Pickups",
+          "Size": "Very large",
+          "Overall": "17",
+          "MV": "13",
+          "SV": "4",
+          "SV roll": "2",
+          "Model Years": "2015-17",
+          "Exposure": "526309"
+        }
+      }
+    ]
+  },
+  {
+    "make": "Toyota",
+    "summary": {
+      "modelCount": 17,
+      "totalExposure": 7317331,
+      "averageOverall": 23.176470588235293
+    },
+    "models": [
+      {
+        "model": "Corolla",
+        "data": {
+          "Make": "Toyota",
+          "Model": "Corolla",
+          "Type": "4-DOOR CARS",
+          "Size": "Small",
+          "Overall": "54",
+          "MV": "40",
+          "SV": "15",
+          "SV roll": "3",
+          "Model Years": "2017",
+          "Exposure": "309773"
+        }
+      },
+      {
+        "model": "Camry",
+        "data": {
+          "Make": "Toyota",
+          "Model": "Camry",
+          "Type": "4-DOOR CARS",
+          "Size": "Midsize",
+          "Overall": "34",
+          "MV": "23",
+          "SV": "11",
+          "SV roll": "4",
+          "Model Years": "2014-17",
+          "Exposure": "3622339"
+        }
+      },
+      {
+        "model": "Camry hybrid",
+        "data": {
+          "Make": "Toyota",
+          "Model": "Camry hybrid",
+          "Type": "4-DOOR CARS",
+          "Size": "Midsize",
+          "Overall": "41",
+          "MV": "35",
+          "SV": "5",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "298667"
+        }
+      },
+      {
+        "model": "Prius v",
+        "data": {
+          "Make": "Toyota",
+          "Model": "Prius v",
+          "Type": "STATION WAGONS",
+          "Size": "Small",
+          "Overall": "19",
+          "MV": "19",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "244190"
+        }
+      },
+      {
+        "model": "Sienna 4WD",
+        "data": {
+          "Make": "Toyota",
+          "Model": "Sienna 4WD",
+          "Type": "MINIVANS",
+          "Size": "Very large",
+          "Overall": "7",
+          "MV": "4",
+          "SV": "4",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "206725"
+        }
+      },
+      {
+        "model": "Sienna 2WD",
+        "data": {
+          "Make": "Toyota",
+          "Model": "Sienna 2WD",
+          "Type": "MINIVANS",
+          "Size": "Very large",
+          "Overall": "20",
+          "MV": "16",
+          "SV": "4",
+          "SV roll": "2",
+          "Model Years": "2014-17",
+          "Exposure": "167897"
+        }
+      },
+      {
+        "model": "RAV4 4WD",
+        "data": {
+          "Make": "Toyota",
+          "Model": "RAV4 4WD",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "10",
+          "MV": "10",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2017",
+          "Exposure": "197926"
+        }
+      },
+      {
+        "model": "RAV4 2WD",
+        "data": {
+          "Make": "Toyota",
+          "Model": "RAV4 2WD",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "28",
+          "MV": "28",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2017",
+          "Exposure": "153216"
+        }
+      },
+      {
+        "model": "4Runner 4WD",
+        "data": {
+          "Make": "Toyota",
+          "Model": "4Runner 4WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "13",
+          "MV": "4",
+          "SV": "11",
+          "SV roll": "7",
+          "Model Years": "2014-17",
+          "Exposure": "667774"
+        }
+      },
+      {
+        "model": "Highlander 4WD",
+        "data": {
+          "Make": "Toyota",
+          "Model": "Highlander 4WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "13",
+          "MV": "0",
+          "SV": "13",
+          "SV roll": "0",
+          "Model Years": "2017",
+          "Exposure": "120591"
+        }
+      },
+      {
+        "model": "4Runner 2WD",
+        "data": {
+          "Make": "Toyota",
+          "Model": "4Runner 2WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "34",
+          "MV": "23",
+          "SV": "10",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "235145"
+        }
+      },
+      {
+        "model": "Tacoma Double Cab short bed 4WD",
+        "data": {
+          "Make": "Toyota",
+          "Model": "Tacoma Double Cab short bed 4WD",
+          "Type": "Pickups",
+          "Size": "Small",
+          "Overall": "21",
+          "MV": "12",
+          "SV": "9",
+          "SV roll": "3",
+          "Model Years": "2016-17",
+          "Exposure": "255258"
+        }
+      },
+      {
+        "model": "Tacoma Double Cab short bed 2WD",
+        "data": {
+          "Make": "Toyota",
+          "Model": "Tacoma Double Cab short bed 2WD",
+          "Type": "Pickups",
+          "Size": "Small",
+          "Overall": "29",
+          "MV": "17",
+          "SV": "11",
+          "SV roll": "0",
+          "Model Years": "2016-17",
+          "Exposure": "147758"
+        }
+      },
+      {
+        "model": "Tundra Crew Max 4WD",
+        "data": {
+          "Make": "Toyota",
+          "Model": "Tundra Crew Max 4WD",
+          "Type": "Pickups",
+          "Size": "Large",
+          "Overall": "7",
+          "MV": "0",
+          "SV": "7",
+          "SV roll": "2",
+          "Model Years": "2014-17",
+          "Exposure": "51093"
+        }
+      },
+      {
+        "model": "Tundra Double Cab short bed 4WD",
+        "data": {
+          "Make": "Toyota",
+          "Model": "Tundra Double Cab short bed 4WD",
+          "Type": "Pickups",
+          "Size": "Large",
+          "Overall": "13",
+          "MV": "5",
+          "SV": "8",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "287843"
+        }
+      },
+      {
+        "model": "Tundra Double Cab short bed 2WD",
+        "data": {
+          "Make": "Toyota",
+          "Model": "Tundra Double Cab short bed 2WD",
+          "Type": "Pickups",
+          "Size": "Large",
+          "Overall": "17",
+          "MV": "13",
+          "SV": "4",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "174791"
+        }
+      },
+      {
+        "model": "Tundra Crew Max 2WD",
+        "data": {
+          "Make": "Toyota",
+          "Model": "Tundra Crew Max 2WD",
+          "Type": "Pickups",
+          "Size": "Large",
+          "Overall": "34",
+          "MV": "22",
+          "SV": "13",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "176345"
+        }
+      }
+    ]
+  },
+  {
+    "make": "Subaru",
+    "summary": {
+      "modelCount": 5,
+      "totalExposure": 3246735,
+      "averageOverall": 21.2
+    },
+    "models": [
+      {
+        "model": "WRX",
+        "data": {
+          "Make": "Subaru",
+          "Model": "WRX",
+          "Type": "4-DOOR CARS",
+          "Size": "Small",
+          "Overall": "54",
+          "MV": "31",
+          "SV": "24",
+          "SV roll": "4",
+          "Model Years": "2015-17",
+          "Exposure": "196935"
+        }
+      },
+      {
+        "model": "Legacy",
+        "data": {
+          "Make": "Subaru",
+          "Model": "Legacy",
+          "Type": "4-DOOR CARS",
+          "Size": "Midsize",
+          "Overall": "14",
+          "MV": "9",
+          "SV": "5",
+          "SV roll": "2",
+          "Model Years": "2015-17",
+          "Exposure": "32925"
+        }
+      },
+      {
+        "model": "XV Crosstrek",
+        "data": {
+          "Make": "Subaru",
+          "Model": "XV Crosstrek",
+          "Type": "STATION WAGONS",
+          "Size": "Small",
+          "Overall": "18",
+          "MV": "10",
+          "SV": "8",
+          "SV roll": "2",
+          "Model Years": "2014-17",
+          "Exposure": "769213"
+        }
+      },
+      {
+        "model": "Outback",
+        "data": {
+          "Make": "Subaru",
+          "Model": "Outback",
+          "Type": "STATION WAGONS",
+          "Size": "Midsize",
+          "Overall": "3",
+          "MV": "2",
+          "SV": "1",
+          "SV roll": "0",
+          "Model Years": "2015-17",
+          "Exposure": "769921"
+        }
+      },
+      {
+        "model": "Forester",
+        "data": {
+          "Make": "Subaru",
+          "Model": "Forester",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "17",
+          "MV": "9",
+          "SV": "9",
+          "SV roll": "2",
+          "Model Years": "2014-17",
+          "Exposure": "1477741"
+        }
+      }
+    ]
+  },
+  {
+    "make": "Chrysler",
+    "summary": {
+      "modelCount": 4,
+      "totalExposure": 1436269,
+      "averageOverall": 34.75
+    },
+    "models": [
+      {
+        "model": "200 2WD",
+        "data": {
+          "Make": "Chrysler",
+          "Model": "200 2WD",
+          "Type": "4-DOOR CARS",
+          "Size": "Midsize",
+          "Overall": "52",
+          "MV": "21",
+          "SV": "32",
+          "SV roll": "3",
+          "Model Years": "2015-17",
+          "Exposure": "784265"
+        }
+      },
+      {
+        "model": "300 4WD",
+        "data": {
+          "Make": "Chrysler",
+          "Model": "300 4WD",
+          "Type": "4-DOOR CARS",
+          "Size": "Large",
+          "Overall": "14",
+          "MV": "10",
+          "SV": "5",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "158207"
+        }
+      },
+      {
+        "model": "300 2WD",
+        "data": {
+          "Make": "Chrysler",
+          "Model": "300 2WD",
+          "Type": "4-DOOR CARS",
+          "Size": "Large",
+          "Overall": "46",
+          "MV": "32",
+          "SV": "14",
+          "SV roll": "7",
+          "Model Years": "2014-17",
+          "Exposure": "337115"
+        }
+      },
+      {
+        "model": "Pacifica",
+        "data": {
+          "Make": "Chrysler",
+          "Model": "Pacifica",
+          "Type": "MINIVANS",
+          "Size": "Very large",
+          "Overall": "27",
+          "MV": "21",
+          "SV": "5",
+          "SV roll": "0",
+          "Model Years": "2017",
+          "Exposure": "156682"
+        }
+      }
+    ]
+  },
+  {
+    "make": "Buick",
+    "summary": {
+      "modelCount": 6,
+      "totalExposure": 1743919,
+      "averageOverall": 42
+    },
+    "models": [
+      {
+        "model": "Verano",
+        "data": {
+          "Make": "Buick",
+          "Model": "Verano",
+          "Type": "4-DOOR CARS",
+          "Size": "Midsize",
+          "Overall": "68",
+          "MV": "35",
+          "SV": "33",
+          "SV roll": "14",
+          "Model Years": "2014-17",
+          "Exposure": "332522"
+        }
+      },
+      {
+        "model": "Regal 2WD",
+        "data": {
+          "Make": "Buick",
+          "Model": "Regal 2WD",
+          "Type": "4-DOOR CARS",
+          "Size": "Large",
+          "Overall": "50",
+          "MV": "24",
+          "SV": "29",
+          "SV roll": "24",
+          "Model Years": "2014-17",
+          "Exposure": "161880"
+        }
+      },
+      {
+        "model": "Enclave 2WD",
+        "data": {
+          "Make": "Buick",
+          "Model": "Enclave 2WD",
+          "Type": "SUVs",
+          "Size": "Large",
+          "Overall": "20",
+          "MV": "15",
+          "SV": "4",
+          "SV roll": "2",
+          "Model Years": "2014-17",
+          "Exposure": "349535"
+        }
+      },
+      {
+        "model": "Enclave 4WD",
+        "data": {
+          "Make": "Buick",
+          "Model": "Enclave 4WD",
+          "Type": "SUVs",
+          "Size": "Large",
+          "Overall": "24",
+          "MV": "24",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "254700"
+        }
+      },
+      {
+        "model": "Encore 4WD",
+        "data": {
+          "Make": "Buick",
+          "Model": "Encore 4WD",
+          "Type": "Luxury SUVs",
+          "Size": "Small",
+          "Overall": "44",
+          "MV": "10",
+          "SV": "39",
+          "SV roll": "24",
+          "Model Years": "2014-17",
+          "Exposure": "221553"
+        }
+      },
+      {
+        "model": "Encore 2WD",
+        "data": {
+          "Make": "Buick",
+          "Model": "Encore 2WD",
+          "Type": "Luxury SUVs",
+          "Size": "Small",
+          "Overall": "46",
+          "MV": "34",
+          "SV": "11",
+          "SV roll": "7",
+          "Model Years": "2014-17",
+          "Exposure": "423729"
+        }
+      }
+    ]
+  },
+  {
+    "make": "Dodge",
+    "summary": {
+      "modelCount": 9,
+      "totalExposure": 4079585,
+      "averageOverall": 38.666666666666664
+    },
+    "models": [
+      {
+        "model": "Charger 4WD",
+        "data": {
+          "Make": "Dodge",
+          "Model": "Charger 4WD",
+          "Type": "4-DOOR CARS",
+          "Size": "Large",
+          "Overall": "28",
+          "MV": "14",
+          "SV": "14",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "107515"
+        }
+      },
+      {
+        "model": "Charger Hemi 2WD",
+        "data": {
+          "Make": "Dodge",
+          "Model": "Charger Hemi 2WD",
+          "Type": "4-DOOR CARS",
+          "Size": "Large",
+          "Overall": "58",
+          "MV": "17",
+          "SV": "43",
+          "SV roll": "8",
+          "Model Years": "2014-17",
+          "Exposure": "199434"
+        }
+      },
+      {
+        "model": "Charger 2WD",
+        "data": {
+          "Make": "Dodge",
+          "Model": "Charger 2WD",
+          "Type": "4-DOOR CARS",
+          "Size": "Large",
+          "Overall": "62",
+          "MV": "27",
+          "SV": "39",
+          "SV roll": "13",
+          "Model Years": "2014-17",
+          "Exposure": "607436"
+        }
+      },
+      {
+        "model": "Challenger 2WD",
+        "data": {
+          "Make": "Dodge",
+          "Model": "Challenger 2WD",
+          "Type": "2-DOOR CARS",
+          "Size": "Large",
+          "Overall": "65",
+          "MV": "34",
+          "SV": "30",
+          "SV roll": "12",
+          "Model Years": "2014-17",
+          "Exposure": "521293"
+        }
+      },
+      {
+        "model": "Grand Caravan",
+        "data": {
+          "Make": "Dodge",
+          "Model": "Grand Caravan",
+          "Type": "MINIVANS",
+          "Size": "Very large",
+          "Overall": "41",
+          "MV": "26",
+          "SV": "15",
+          "SV roll": "5",
+          "Model Years": "2014-17",
+          "Exposure": "1226909"
+        }
+      },
+      {
+        "model": "Journey 4WD",
+        "data": {
+          "Make": "Dodge",
+          "Model": "Journey 4WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "23",
+          "MV": "20",
+          "SV": "3",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "24743"
+        }
+      },
+      {
+        "model": "Journey 2WD",
+        "data": {
+          "Make": "Dodge",
+          "Model": "Journey 2WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "45",
+          "MV": "26",
+          "SV": "19",
+          "SV roll": "12",
+          "Model Years": "2014-17",
+          "Exposure": "728704"
+        }
+      },
+      {
+        "model": "Durango 2WD",
+        "data": {
+          "Make": "Dodge",
+          "Model": "Durango 2WD",
+          "Type": "SUVs",
+          "Size": "Large",
+          "Overall": "11",
+          "MV": "7",
+          "SV": "3",
+          "SV roll": "3",
+          "Model Years": "2014-17",
+          "Exposure": "248854"
+        }
+      },
+      {
+        "model": "Durango 4WD",
+        "data": {
+          "Make": "Dodge",
+          "Model": "Durango 4WD",
+          "Type": "SUVs",
+          "Size": "Large",
+          "Overall": "15",
+          "MV": "2",
+          "SV": "15",
+          "SV roll": "9",
+          "Model Years": "2014-17",
+          "Exposure": "414697"
+        }
+      }
+    ]
+  },
+  {
+    "make": "MINI",
+    "summary": {
+      "modelCount": 1,
+      "totalExposure": 149663,
+      "averageOverall": 10
+    },
+    "models": [
+      {
+        "model": "Cooper",
+        "data": {
+          "Make": "MINI",
+          "Model": "Cooper",
+          "Type": "2-DOOR CARS",
+          "Size": "Mini",
+          "Overall": "10",
+          "MV": "10",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "149663"
+        }
+      }
+    ]
+  },
+  {
+    "make": "Fiat",
+    "summary": {
+      "modelCount": 2,
+      "totalExposure": 235596,
+      "averageOverall": 59.5
+    },
+    "models": [
+      {
+        "model": "500",
+        "data": {
+          "Make": "Fiat",
+          "Model": "500",
+          "Type": "2-DOOR CARS",
+          "Size": "Mini",
+          "Overall": "95",
+          "MV": "60",
+          "SV": "38",
+          "SV roll": "37",
+          "Model Years": "2014-17",
+          "Exposure": "123127"
+        }
+      },
+      {
+        "model": "500L",
+        "data": {
+          "Make": "Fiat",
+          "Model": "500L",
+          "Type": "STATION WAGONS",
+          "Size": "Small",
+          "Overall": "24",
+          "MV": "24",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "112469"
+        }
+      }
+    ]
+  },
+  {
+    "make": "Mercedes-Benz",
+    "summary": {
+      "modelCount": 2,
+      "totalExposure": 205247,
+      "averageOverall": 14
+    },
+    "models": [
+      {
+        "model": "C-Class sedan 4WD",
+        "data": {
+          "Make": "Mercedes-Benz",
+          "Model": "C-Class sedan 4WD",
+          "Type": "LUXURY CARS",
+          "Size": "Midsize",
+          "Overall": "0",
+          "MV": "0",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2015-17",
+          "Exposure": "25485"
+        }
+      },
+      {
+        "model": "C-Class sedan 2WD",
+        "data": {
+          "Make": "Mercedes-Benz",
+          "Model": "C-Class sedan 2WD",
+          "Type": "LUXURY CARS",
+          "Size": "Midsize",
+          "Overall": "28",
+          "MV": "10",
+          "SV": "17",
+          "SV roll": "9",
+          "Model Years": "2015-17",
+          "Exposure": "179762"
+        }
+      }
+    ]
+  },
+  {
+    "make": "Lexus",
+    "summary": {
+      "modelCount": 4,
+      "totalExposure": 502193,
+      "averageOverall": 6
+    },
+    "models": [
+      {
+        "model": "CT 200h",
+        "data": {
+          "Make": "Lexus",
+          "Model": "CT 200h",
+          "Type": "LUXURY CARS",
+          "Size": "Midsize",
+          "Overall": "6",
+          "MV": "6",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "11881"
+        }
+      },
+      {
+        "model": "NX 200t 4WD",
+        "data": {
+          "Make": "Lexus",
+          "Model": "NX 200t 4WD",
+          "Type": "Luxury SUVs",
+          "Size": "Midsize",
+          "Overall": "0",
+          "MV": "0",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2015-17",
+          "Exposure": "133129"
+        }
+      },
+      {
+        "model": "NX 200t 2WD",
+        "data": {
+          "Make": "Lexus",
+          "Model": "NX 200t 2WD",
+          "Type": "Luxury SUVs",
+          "Size": "Midsize",
+          "Overall": "15",
+          "MV": "0",
+          "SV": "15",
+          "SV roll": "0",
+          "Model Years": "2015-17",
+          "Exposure": "130217"
+        }
+      },
+      {
+        "model": "GX 460 4WD",
+        "data": {
+          "Make": "Lexus",
+          "Model": "GX 460 4WD",
+          "Type": "Luxury SUVs",
+          "Size": "Large",
+          "Overall": "3",
+          "MV": "0",
+          "SV": "3",
+          "SV roll": "4",
+          "Model Years": "2014-17",
+          "Exposure": "226966"
+        }
+      }
+    ]
+  },
+  {
+    "make": "Cadillac",
+    "summary": {
+      "modelCount": 3,
+      "totalExposure": 414570,
+      "averageOverall": 19.333333333333332
+    },
+    "models": [
+      {
+        "model": "ATS 2WD",
+        "data": {
+          "Make": "Cadillac",
+          "Model": "ATS 2WD",
+          "Type": "LUXURY CARS",
+          "Size": "Midsize",
+          "Overall": "31",
+          "MV": "21",
+          "SV": "11",
+          "SV roll": "6",
+          "Model Years": "2014-17",
+          "Exposure": "146586"
+        }
+      },
+      {
+        "model": "XTS 2WD",
+        "data": {
+          "Make": "Cadillac",
+          "Model": "XTS 2WD",
+          "Type": "LUXURY CARS",
+          "Size": "Very large",
+          "Overall": "21",
+          "MV": "21",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "147596"
+        }
+      },
+      {
+        "model": "Escalade 4WD",
+        "data": {
+          "Make": "Cadillac",
+          "Model": "Escalade 4WD",
+          "Type": "Luxury SUVs",
+          "Size": "Large",
+          "Overall": "6",
+          "MV": "0",
+          "SV": "6",
+          "SV roll": "0",
+          "Model Years": "2015-17",
+          "Exposure": "120388"
+        }
+      }
+    ]
+  },
+  {
+    "make": "Infiniti",
+    "summary": {
+      "modelCount": 4,
+      "totalExposure": 600861,
+      "averageOverall": 27
+    },
+    "models": [
+      {
+        "model": "Q50 4WD",
+        "data": {
+          "Make": "Infiniti",
+          "Model": "Q50 4WD",
+          "Type": "LUXURY CARS",
+          "Size": "Midsize",
+          "Overall": "39",
+          "MV": "0",
+          "SV": "39",
+          "SV roll": "11",
+          "Model Years": "2014-17",
+          "Exposure": "218675"
+        }
+      },
+      {
+        "model": "Q50 2WD",
+        "data": {
+          "Make": "Infiniti",
+          "Model": "Q50 2WD",
+          "Type": "LUXURY CARS",
+          "Size": "Midsize",
+          "Overall": "60",
+          "MV": "18",
+          "SV": "44",
+          "SV roll": "19",
+          "Model Years": "2014-17",
+          "Exposure": "213505"
+        }
+      },
+      {
+        "model": "QX60 2WD",
+        "data": {
+          "Make": "Infiniti",
+          "Model": "QX60 2WD",
+          "Type": "Luxury SUVs",
+          "Size": "Midsize",
+          "Overall": "0",
+          "MV": "0",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "144301"
+        }
+      },
+      {
+        "model": "QX60 4WD",
+        "data": {
+          "Make": "Infiniti",
+          "Model": "QX60 4WD",
+          "Type": "Luxury SUVs",
+          "Size": "Midsize",
+          "Overall": "9",
+          "MV": "0",
+          "SV": "9",
+          "SV roll": "3",
+          "Model Years": "2014-17",
+          "Exposure": "24380"
+        }
+      }
+    ]
+  },
+  {
+    "make": "BMW",
+    "summary": {
+      "modelCount": 3,
+      "totalExposure": 506495,
+      "averageOverall": 17
+    },
+    "models": [
+      {
+        "model": "320i 2WD",
+        "data": {
+          "Make": "BMW",
+          "Model": "320i 2WD",
+          "Type": "LUXURY CARS",
+          "Size": "Midsize",
+          "Overall": "42",
+          "MV": "17",
+          "SV": "29",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "137322"
+        }
+      },
+      {
+        "model": "X5 4WD",
+        "data": {
+          "Make": "BMW",
+          "Model": "X5 4WD",
+          "Type": "Luxury SUVs",
+          "Size": "Midsize",
+          "Overall": "4",
+          "MV": "2",
+          "SV": "2",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "34871"
+        }
+      },
+      {
+        "model": "X3 4WD",
+        "data": {
+          "Make": "BMW",
+          "Model": "X3 4WD",
+          "Type": "Luxury SUVs",
+          "Size": "Midsize",
+          "Overall": "5",
+          "MV": "0",
+          "SV": "5",
+          "SV roll": "5",
+          "Model Years": "2014-17",
+          "Exposure": "334302"
+        }
+      }
+    ]
+  },
+  {
+    "make": "Lincoln",
+    "summary": {
+      "modelCount": 1,
+      "totalExposure": 126721,
+      "averageOverall": 55
+    },
+    "models": [
+      {
+        "model": "MKZ 2WD",
+        "data": {
+          "Make": "Lincoln",
+          "Model": "MKZ 2WD",
+          "Type": "LUXURY CARS",
+          "Size": "Midsize",
+          "Overall": "55",
+          "MV": "32",
+          "SV": "25",
+          "SV roll": "6",
+          "Model Years": "2014-17",
+          "Exposure": "126721"
+        }
+      }
+    ]
+  },
+  {
+    "make": "Audi",
+    "summary": {
+      "modelCount": 2,
+      "totalExposure": 597949,
+      "averageOverall": 14
+    },
+    "models": [
+      {
+        "model": "A6 4WD",
+        "data": {
+          "Make": "Audi",
+          "Model": "A6 4WD",
+          "Type": "LUXURY CARS",
+          "Size": "Large",
+          "Overall": "16",
+          "MV": "4",
+          "SV": "13",
+          "SV roll": "9",
+          "Model Years": "2014-17",
+          "Exposure": "184986"
+        }
+      },
+      {
+        "model": "Q5 4WD",
+        "data": {
+          "Make": "Audi",
+          "Model": "Q5 4WD",
+          "Type": "Luxury SUVs",
+          "Size": "Midsize",
+          "Overall": "12",
+          "MV": "4",
+          "SV": "8",
+          "SV roll": "4",
+          "Model Years": "2014-17",
+          "Exposure": "412963"
+        }
+      }
+    ]
+  },
+  {
+    "make": "Jeep",
+    "summary": {
+      "modelCount": 12,
+      "totalExposure": 6983410,
+      "averageOverall": 32.166666666666664
+    },
+    "models": [
+      {
+        "model": "Renegade 2WD",
+        "data": {
+          "Make": "Jeep",
+          "Model": "Renegade 2WD",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "13",
+          "MV": "8",
+          "SV": "4",
+          "SV roll": "0",
+          "Model Years": "2015-17",
+          "Exposure": "180718"
+        }
+      },
+      {
+        "model": "Renegade 4WD",
+        "data": {
+          "Make": "Jeep",
+          "Model": "Renegade 4WD",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "26",
+          "MV": "22",
+          "SV": "2",
+          "SV roll": "2",
+          "Model Years": "2015-17",
+          "Exposure": "341425"
+        }
+      },
+      {
+        "model": "Patriot 4WD",
+        "data": {
+          "Make": "Jeep",
+          "Model": "Patriot 4WD",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "36",
+          "MV": "24",
+          "SV": "12",
+          "SV roll": "2",
+          "Model Years": "2014-17",
+          "Exposure": "503880"
+        }
+      },
+      {
+        "model": "Compass 4WD",
+        "data": {
+          "Make": "Jeep",
+          "Model": "Compass 4WD",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "40",
+          "MV": "21",
+          "SV": "20",
+          "SV roll": "8",
+          "Model Years": "2014-17",
+          "Exposure": "401789"
+        }
+      },
+      {
+        "model": "Wrangler 2-door 4WD",
+        "data": {
+          "Make": "Jeep",
+          "Model": "Wrangler 2-door 4WD",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "46",
+          "MV": "23",
+          "SV": "23",
+          "SV roll": "20",
+          "Model Years": "2014-17",
+          "Exposure": "43861"
+        }
+      },
+      {
+        "model": "Compass 2WD",
+        "data": {
+          "Make": "Jeep",
+          "Model": "Compass 2WD",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "55",
+          "MV": "40",
+          "SV": "15",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "321269"
+        }
+      },
+      {
+        "model": "Patriot 2WD",
+        "data": {
+          "Make": "Jeep",
+          "Model": "Patriot 2WD",
+          "Type": "SUVs",
+          "Size": "Small",
+          "Overall": "60",
+          "MV": "49",
+          "SV": "8",
+          "SV roll": "5",
+          "Model Years": "2014-17",
+          "Exposure": "618728"
+        }
+      },
+      {
+        "model": "Grand Cherokee 4WD",
+        "data": {
+          "Make": "Jeep",
+          "Model": "Grand Cherokee 4WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "16",
+          "MV": "11",
+          "SV": "6",
+          "SV roll": "3",
+          "Model Years": "2014-17",
+          "Exposure": "1901695"
+        }
+      },
+      {
+        "model": "Grand Cherokee 2WD",
+        "data": {
+          "Make": "Jeep",
+          "Model": "Grand Cherokee 2WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "17",
+          "MV": "11",
+          "SV": "5",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "465291"
+        }
+      },
+      {
+        "model": "Cherokee 4WD",
+        "data": {
+          "Make": "Jeep",
+          "Model": "Cherokee 4WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "20",
+          "MV": "12",
+          "SV": "7",
+          "SV roll": "2",
+          "Model Years": "2014-17",
+          "Exposure": "123391"
+        }
+      },
+      {
+        "model": "Cherokee 2WD",
+        "data": {
+          "Make": "Jeep",
+          "Model": "Cherokee 2WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "26",
+          "MV": "19",
+          "SV": "8",
+          "SV roll": "1",
+          "Model Years": "2014-17",
+          "Exposure": "601120"
+        }
+      },
+      {
+        "model": "Wrangler 4-door 4WD",
+        "data": {
+          "Make": "Jeep",
+          "Model": "Wrangler 4-door 4WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "31",
+          "MV": "15",
+          "SV": "17",
+          "SV roll": "10",
+          "Model Years": "2014-17",
+          "Exposure": "1480243"
+        }
+      }
+    ]
+  },
+  {
+    "make": "GMC",
+    "summary": {
+      "modelCount": 11,
+      "totalExposure": 3106465,
+      "averageOverall": 25.363636363636363
+    },
+    "models": [
+      {
+        "model": "Terrain 4WD",
+        "data": {
+          "Make": "GMC",
+          "Model": "Terrain 4WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "18",
+          "MV": "12",
+          "SV": "6",
+          "SV roll": "4",
+          "Model Years": "2014-17",
+          "Exposure": "3695"
+        }
+      },
+      {
+        "model": "Terrain 2WD",
+        "data": {
+          "Make": "GMC",
+          "Model": "Terrain 2WD",
+          "Type": "SUVs",
+          "Size": "Midsize",
+          "Overall": "33",
+          "MV": "22",
+          "SV": "10",
+          "SV roll": "1",
+          "Model Years": "2014-17",
+          "Exposure": "595721"
+        }
+      },
+      {
+        "model": "Yukon 4WD",
+        "data": {
+          "Make": "GMC",
+          "Model": "Yukon 4WD",
+          "Type": "SUVs",
+          "Size": "Large",
+          "Overall": "27",
+          "MV": "14",
+          "SV": "14",
+          "SV roll": "13",
+          "Model Years": "2015-17",
+          "Exposure": "232618"
+        }
+      },
+      {
+        "model": "Yukon 2WD",
+        "data": {
+          "Make": "GMC",
+          "Model": "Yukon 2WD",
+          "Type": "SUVs",
+          "Size": "Large",
+          "Overall": "40",
+          "MV": "0",
+          "SV": "40",
+          "SV roll": "26",
+          "Model Years": "2015-17",
+          "Exposure": "119156"
+        }
+      },
+      {
+        "model": "Yukon XL 1500 4WD",
+        "data": {
+          "Make": "GMC",
+          "Model": "Yukon XL 1500 4WD",
+          "Type": "SUVs",
+          "Size": "Very large",
+          "Overall": "0",
+          "MV": "0",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2015-17",
+          "Exposure": "186403"
+        }
+      },
+      {
+        "model": "Canyon Crew Cab 4WD",
+        "data": {
+          "Make": "GMC",
+          "Model": "Canyon Crew Cab 4WD",
+          "Type": "Pickups",
+          "Size": "Small",
+          "Overall": "15",
+          "MV": "7",
+          "SV": "8",
+          "SV roll": "0",
+          "Model Years": "2015-17",
+          "Exposure": "102690"
+        }
+      },
+      {
+        "model": "Sierra 1500 Ext. Cab 4WD",
+        "data": {
+          "Make": "GMC",
+          "Model": "Sierra 1500 Ext. Cab 4WD",
+          "Type": "Pickups",
+          "Size": "Large",
+          "Overall": "20",
+          "MV": "13",
+          "SV": "7",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "343354"
+        }
+      },
+      {
+        "model": "Sierra 1500 Ext. Cab 2WD",
+        "data": {
+          "Make": "GMC",
+          "Model": "Sierra 1500 Ext. Cab 2WD",
+          "Type": "Pickups",
+          "Size": "Large",
+          "Overall": "27",
+          "MV": "27",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "112477"
+        }
+      },
+      {
+        "model": "Sierra 1500 Crew Cab 4WD",
+        "data": {
+          "Make": "GMC",
+          "Model": "Sierra 1500 Crew Cab 4WD",
+          "Type": "Pickups",
+          "Size": "Large",
+          "Overall": "29",
+          "MV": "14",
+          "SV": "15",
+          "SV roll": "5",
+          "Model Years": "2014-17",
+          "Exposure": "871192"
+        }
+      },
+      {
+        "model": "Sierra 1500 Crew Cab 2WD",
+        "data": {
+          "Make": "GMC",
+          "Model": "Sierra 1500 Crew Cab 2WD",
+          "Type": "Pickups",
+          "Size": "Large",
+          "Overall": "48",
+          "MV": "33",
+          "SV": "15",
+          "SV roll": "6",
+          "Model Years": "2014-17",
+          "Exposure": "264813"
+        }
+      },
+      {
+        "model": "Sierra 2500 Crew Cab 4WD",
+        "data": {
+          "Make": "GMC",
+          "Model": "Sierra 2500 Crew Cab 4WD",
+          "Type": "Pickups",
+          "Size": "Very large",
+          "Overall": "22",
+          "MV": "6",
+          "SV": "38",
+          "SV roll": "11",
+          "Model Years": "2015-17",
+          "Exposure": "274346"
+        }
+      }
+    ]
+  },
+  {
+    "make": "Land Rover",
+    "summary": {
+      "modelCount": 2,
+      "totalExposure": 141300,
+      "averageOverall": 7.5
+    },
+    "models": [
+      {
+        "model": "Range Rover Evoque 4WD",
+        "data": {
+          "Make": "Land Rover",
+          "Model": "Range Rover Evoque 4WD",
+          "Type": "Luxury SUVs",
+          "Size": "Small",
+          "Overall": "0",
+          "MV": "0",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "10437"
+        }
+      },
+      {
+        "model": "Range Rover 4WD",
+        "data": {
+          "Make": "Land Rover",
+          "Model": "Range Rover 4WD",
+          "Type": "Luxury SUVs",
+          "Size": "Large",
+          "Overall": "15",
+          "MV": "0",
+          "SV": "15",
+          "SV roll": "18",
+          "Model Years": "2014-17",
+          "Exposure": "130863"
+        }
+      }
+    ]
+  },
+  {
+    "make": "Volvo",
+    "summary": {
+      "modelCount": 1,
+      "totalExposure": 122100,
+      "averageOverall": 29
+    },
+    "models": [
+      {
+        "model": "XC60 4WD",
+        "data": {
+          "Make": "Volvo",
+          "Model": "XC60 4WD",
+          "Type": "Luxury SUVs",
+          "Size": "Midsize",
+          "Overall": "29",
+          "MV": "0",
+          "SV": "29",
+          "SV roll": "25",
+          "Model Years": "2014-17",
+          "Exposure": "122100"
+        }
+      }
+    ]
+  },
+  {
+    "make": "Porsche",
+    "summary": {
+      "modelCount": 1,
+      "totalExposure": 140637,
+      "averageOverall": 0
+    },
+    "models": [
+      {
+        "model": "Cayenne 4WD",
+        "data": {
+          "Make": "Porsche",
+          "Model": "Cayenne 4WD",
+          "Type": "Luxury SUVs",
+          "Size": "Large",
+          "Overall": "0",
+          "MV": "0",
+          "SV": "0",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "140637"
+        }
+      }
+    ]
+  },
+  {
+    "make": "Ram",
+    "summary": {
+      "modelCount": 10,
+      "totalExposure": 3196710,
+      "averageOverall": 37.9
+    },
+    "models": [
+      {
+        "model": "1500 Crew Cab long bed 4WD",
+        "data": {
+          "Make": "Ram",
+          "Model": "1500 Crew Cab long bed 4WD",
+          "Type": "Pickups",
+          "Size": "Large",
+          "Overall": "16",
+          "MV": "8",
+          "SV": "8",
+          "SV roll": "9",
+          "Model Years": "2014-17",
+          "Exposure": "188357"
+        }
+      },
+      {
+        "model": "1500 Quad Cab 4WD",
+        "data": {
+          "Make": "Ram",
+          "Model": "1500 Quad Cab 4WD",
+          "Type": "Pickups",
+          "Size": "Large",
+          "Overall": "30",
+          "MV": "24",
+          "SV": "6",
+          "SV roll": "5",
+          "Model Years": "2014-17",
+          "Exposure": "605424"
+        }
+      },
+      {
+        "model": "1500 Crew Cab short bed 2WD",
+        "data": {
+          "Make": "Ram",
+          "Model": "1500 Crew Cab short bed 2WD",
+          "Type": "Pickups",
+          "Size": "Large",
+          "Overall": "37",
+          "MV": "21",
+          "SV": "17",
+          "SV roll": "10",
+          "Model Years": "2014-17",
+          "Exposure": "416552"
+        }
+      },
+      {
+        "model": "1500 Crew Cab short bed 4WD",
+        "data": {
+          "Make": "Ram",
+          "Model": "1500 Crew Cab short bed 4WD",
+          "Type": "Pickups",
+          "Size": "Large",
+          "Overall": "39",
+          "MV": "17",
+          "SV": "22",
+          "SV roll": "10",
+          "Model Years": "2014-17",
+          "Exposure": "1209652"
+        }
+      },
+      {
+        "model": "1500 Quad Cab 2WD",
+        "data": {
+          "Make": "Ram",
+          "Model": "1500 Quad Cab 2WD",
+          "Type": "Pickups",
+          "Size": "Large",
+          "Overall": "41",
+          "MV": "16",
+          "SV": "25",
+          "SV roll": "5",
+          "Model Years": "2014-17",
+          "Exposure": "346230"
+        }
+      },
+      {
+        "model": "1500 short bed 2WD",
+        "data": {
+          "Make": "Ram",
+          "Model": "1500 short bed 2WD",
+          "Type": "Pickups",
+          "Size": "Large",
+          "Overall": "44",
+          "MV": "22",
+          "SV": "22",
+          "SV roll": "16",
+          "Model Years": "2014-17",
+          "Exposure": "103962"
+        }
+      },
+      {
+        "model": "2500 Crew Cab short bed 4WD",
+        "data": {
+          "Make": "Ram",
+          "Model": "2500 Crew Cab short bed 4WD",
+          "Type": "Pickups",
+          "Size": "Very large",
+          "Overall": "30",
+          "MV": "13",
+          "SV": "17",
+          "SV roll": "6",
+          "Model Years": "2014-17",
+          "Exposure": "58038"
+        }
+      },
+      {
+        "model": "3500 Crew Cab long bed 4WD",
+        "data": {
+          "Make": "Ram",
+          "Model": "3500 Crew Cab long bed 4WD",
+          "Type": "Pickups",
+          "Size": "Very large",
+          "Overall": "32",
+          "MV": "19",
+          "SV": "13",
+          "SV roll": "3",
+          "Model Years": "2014-17",
+          "Exposure": "23985"
+        }
+      },
+      {
+        "model": "2500 Mega Cab 4WD",
+        "data": {
+          "Make": "Ram",
+          "Model": "2500 Mega Cab 4WD",
+          "Type": "Pickups",
+          "Size": "Very large",
+          "Overall": "47",
+          "MV": "18",
+          "SV": "31",
+          "SV roll": "0",
+          "Model Years": "2014-17",
+          "Exposure": "100187"
+        }
+      },
+      {
+        "model": "2500 Crew Cab long bed 4WD",
+        "data": {
+          "Make": "Ram",
+          "Model": "2500 Crew Cab long bed 4WD",
+          "Type": "Pickups",
+          "Size": "Very large",
+          "Overall": "63",
+          "MV": "26",
+          "SV": "38",
+          "SV roll": "11",
+          "Model Years": "2014-17",
+          "Exposure": "144323"
+        }
+      }
+    ]
+  }
+]}

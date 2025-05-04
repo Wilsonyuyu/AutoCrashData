@@ -1,0 +1,369 @@
+{"data": [
+  {
+    "make": "Mitsubishi",
+    "models": [
+      "Mirage hatchback",
+      "Lancer 2WD",
+      "Outlander 4WD",
+      "Outlander Sport 2WD",
+      "Outlander 2WD",
+      "Outlander Sport 4WD"
+    ]
+  },
+  {
+    "make": "Kia",
+    "models": [
+      "Rio",
+      "Forte",
+      "Optima",
+      "Soul",
+      "Sedona",
+      "Sorento 4WD",
+      "Sorento 2WD"
+    ]
+  },
+  {
+    "make": "Hyundai",
+    "models": [
+      "Accent",
+      "Elantra GT",
+      "Elantra",
+      "Sonata",
+      "Veloster",
+      "Tucson 4WD",
+      "Tucson 2WD",
+      "Santa Fe 4WD",
+      "Santa Fe 2WD",
+      "Santa Fe Sport 4WD",
+      "Santa Fe Sport 2WD"
+    ]
+  },
+  {
+    "make": "Ford",
+    "models": [
+      "Fiesta",
+      "Focus",
+      "Fusion plug-in hybrid",
+      "Fusion 4WD",
+      "Fusion hybrid 2WD",
+      "Fusion 2WD",
+      "Mustang coupe",
+      "Mustang GT coupe",
+      "C-Max hybrid",
+      "Escape 4WD",
+      "Escape 2WD",
+      "Explorer 4WD",
+      "Edge 4WD",
+      "Edge 2WD",
+      "Explorer 2WD",
+      "Flex 2WD",
+      "Expedition 4WD",
+      "Expedition 2WD",
+      "Expedition EL 4WD",
+      "F-150 Supercab 4WD",
+      "F-150 Supercab 2WD",
+      "F-150 Crew Cab 4WD",
+      "F-150 Crew Cab 2WD",
+      "F-150 2WD",
+      "F250 Crew Cab 4WD"
+    ]
+  },
+  {
+    "make": "Volkswagen",
+    "models": [
+      "Golf",
+      "GTI",
+      "Jetta",
+      "Beetle",
+      "Tiguan 2WD",
+      "Tiguan 4WD"
+    ]
+  },
+  {
+    "make": "Nissan",
+    "models": [
+      "Leaf",
+      "Juke 2WD",
+      "Juke 4WD",
+      "Sentra",
+      "Versa",
+      "Altima",
+      "Maxima",
+      "Versa Note",
+      "Rogue 4WD",
+      "Rogue 2WD",
+      "Murano 4WD",
+      "Murano 2WD",
+      "Pathfinder 4WD",
+      "Pathfinder 2WD",
+      "Frontier Crew Cab short bed 4WD",
+      "Frontier King Cab 2WD",
+      "Frontier Crew Cab short bed 2WD"
+    ]
+  },
+  {
+    "make": "Acura",
+    "models": [
+      "ILX",
+      "TLX 2WD",
+      "RDX 2WD",
+      "RDX 4WD"
+    ]
+  },
+  {
+    "make": "Mazda",
+    "models": [
+      "3 hatchback",
+      "3 sedan",
+      "6 2WD"
+    ]
+  },
+  {
+    "make": "Honda",
+    "models": [
+      "Civic",
+      "Accord",
+      "Fit",
+      "Odyssey",
+      "HR-V 4WD",
+      "CR-V 2WD",
+      "CR-V 4WD",
+      "HR-V 2WD",
+      "Pilot 4WD",
+      "Pilot 2WD"
+    ]
+  },
+  {
+    "make": "Chevrolet",
+    "models": [
+      "Cruze",
+      "Sonic",
+      "Malibu",
+      "Impala",
+      "Corvette coupe",
+      "Camaro coupe",
+      "Trax 4WD",
+      "Trax 2WD",
+      "Equinox 4WD",
+      "Equinox 2WD",
+      "Tahoe 4WD",
+      "Traverse 2WD",
+      "Tahoe 2WD",
+      "Traverse 4WD",
+      "Suburban 1500 4WD",
+      "Suburban 1500 2WD",
+      "Colorado Ext. Cab 2WD",
+      "Colorado Crew Cab 2WD",
+      "Colorado Crew Cab 4WD",
+      "Silverado 1500 Ext. Cab 4WD",
+      "Silverado 1500 Crew Cab 4WD",
+      "Silverado 1500 2WD",
+      "Silverado 1500 Ext. Cab 2WD",
+      "Silverado 1500 4WD",
+      "Silverado 1500 Crew Cab 2WD",
+      "Silverado 2500 Ext. Cab 4WD",
+      "Silverado 3500 Crew Cab 4WD",
+      "Silverado 2500 Crew Cab 4WD"
+    ]
+  },
+  {
+    "make": "Toyota",
+    "models": [
+      "Corolla",
+      "Camry",
+      "Camry hybrid",
+      "Prius v",
+      "Sienna 4WD",
+      "Sienna 2WD",
+      "RAV4 4WD",
+      "RAV4 2WD",
+      "4Runner 4WD",
+      "Highlander 4WD",
+      "4Runner 2WD",
+      "Tacoma Double Cab short bed 4WD",
+      "Tacoma Double Cab short bed 2WD",
+      "Tundra Crew Max 4WD",
+      "Tundra Double Cab short bed 4WD",
+      "Tundra Double Cab short bed 2WD",
+      "Tundra Crew Max 2WD"
+    ]
+  },
+  {
+    "make": "Subaru",
+    "models": [
+      "WRX",
+      "Legacy",
+      "XV Crosstrek",
+      "Outback",
+      "Forester"
+    ]
+  },
+  {
+    "make": "Chrysler",
+    "models": [
+      "200 2WD",
+      "300 4WD",
+      "300 2WD",
+      "Pacifica"
+    ]
+  },
+  {
+    "make": "Buick",
+    "models": [
+      "Verano",
+      "Regal 2WD",
+      "Enclave 2WD",
+      "Enclave 4WD",
+      "Encore 4WD",
+      "Encore 2WD"
+    ]
+  },
+  {
+    "make": "Dodge",
+    "models": [
+      "Charger 4WD",
+      "Charger Hemi 2WD",
+      "Charger 2WD",
+      "Challenger 2WD",
+      "Grand Caravan",
+      "Journey 4WD",
+      "Journey 2WD",
+      "Durango 2WD",
+      "Durango 4WD"
+    ]
+  },
+  {
+    "make": "MINI",
+    "models": [
+      "Cooper"
+    ]
+  },
+  {
+    "make": "Fiat",
+    "models": [
+      "500",
+      "500L"
+    ]
+  },
+  {
+    "make": "Mercedes-Benz",
+    "models": [
+      "C-Class sedan 4WD",
+      "C-Class sedan 2WD"
+    ]
+  },
+  {
+    "make": "Lexus",
+    "models": [
+      "CT 200h",
+      "NX 200t 4WD",
+      "NX 200t 2WD",
+      "GX 460 4WD"
+    ]
+  },
+  {
+    "make": "Cadillac",
+    "models": [
+      "ATS 2WD",
+      "XTS 2WD",
+      "Escalade 4WD"
+    ]
+  },
+  {
+    "make": "Infiniti",
+    "models": [
+      "Q50 4WD",
+      "Q50 2WD",
+      "QX60 2WD",
+      "QX60 4WD"
+    ]
+  },
+  {
+    "make": "BMW",
+    "models": [
+      "320i 2WD",
+      "X5 4WD",
+      "X3 4WD"
+    ]
+  },
+  {
+    "make": "Lincoln",
+    "models": [
+      "MKZ 2WD"
+    ]
+  },
+  {
+    "make": "Audi",
+    "models": [
+      "A6 4WD",
+      "Q5 4WD"
+    ]
+  },
+  {
+    "make": "Jeep",
+    "models": [
+      "Renegade 2WD",
+      "Renegade 4WD",
+      "Patriot 4WD",
+      "Compass 4WD",
+      "Wrangler 2-door 4WD",
+      "Compass 2WD",
+      "Patriot 2WD",
+      "Grand Cherokee 4WD",
+      "Grand Cherokee 2WD",
+      "Cherokee 4WD",
+      "Cherokee 2WD",
+      "Wrangler 4-door 4WD"
+    ]
+  },
+  {
+    "make": "GMC",
+    "models": [
+      "Terrain 4WD",
+      "Terrain 2WD",
+      "Yukon 4WD",
+      "Yukon 2WD",
+      "Yukon XL 1500 4WD",
+      "Canyon Crew Cab 4WD",
+      "Sierra 1500 Ext. Cab 4WD",
+      "Sierra 1500 Ext. Cab 2WD",
+      "Sierra 1500 Crew Cab 4WD",
+      "Sierra 1500 Crew Cab 2WD",
+      "Sierra 2500 Crew Cab 4WD"
+    ]
+  },
+  {
+    "make": "Land Rover",
+    "models": [
+      "Range Rover Evoque 4WD",
+      "Range Rover 4WD"
+    ]
+  },
+  {
+    "make": "Volvo",
+    "models": [
+      "XC60 4WD"
+    ]
+  },
+  {
+    "make": "Porsche",
+    "models": [
+      "Cayenne 4WD"
+    ]
+  },
+  {
+    "make": "Ram",
+    "models": [
+      "1500 Crew Cab long bed 4WD",
+      "1500 Quad Cab 4WD",
+      "1500 Crew Cab short bed 2WD",
+      "1500 Crew Cab short bed 4WD",
+      "1500 Quad Cab 2WD",
+      "1500 short bed 2WD",
+      "2500 Crew Cab short bed 4WD",
+      "3500 Crew Cab long bed 4WD",
+      "2500 Mega Cab 4WD",
+      "2500 Crew Cab long bed 4WD"
+    ]
+  }
+]}

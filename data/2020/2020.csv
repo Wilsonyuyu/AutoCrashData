@@ -1,0 +1,223 @@
+Make,Model,Type,Size,Overall,MV,SV,SV roll,Model Years,Exposure
+Mitsubishi,Mirage hatchback,4-DOOR CARS,Mini,72,52,18,5,2014-17,171842
+Kia,Rio,4-DOOR CARS,Mini,87,51,38,0,2014-17,204326
+Hyundai,Accent,4-DOOR CARS,Mini,116,85,28,9,2014-17,417171
+Ford,Fiesta,4-DOOR CARS,Mini,141,98,46,13,2014-17,357492
+Volkswagen,Golf,4-DOOR CARS,Small,0,0,0,0,2015-17,10884
+Nissan,Leaf,4-DOOR CARS,Small,5,0,5,0,2014-17,164259
+Volkswagen,GTI,4-DOOR CARS,Small,11,11,0,0,2015-17,137682
+Nissan,Juke 2WD,4-DOOR CARS,Small,12,6,6,6,2014-17,126805
+Acura,ILX,4-DOOR CARS,Small,26,20,5,0,2014-17,162116
+Mazda,3 hatchback,4-DOOR CARS,Small,27,12,16,2,2014-17,348619
+Mitsubishi,Lancer 2WD,4-DOOR CARS,Small,31,25,6,0,2014-17,124110
+Mazda,3 sedan,4-DOOR CARS,Small,39,27,13,1,2014-17,602393
+Hyundai,Elantra GT,4-DOOR CARS,Small,44,19,27,0,2014-17,174343
+Honda,Civic,4-DOOR CARS,Small,46,30,15,4,2016-17,91243
+Chevrolet,Cruze,4-DOOR CARS,Small,49,35,13,5,2016-17,351592
+Toyota,Corolla,4-DOOR CARS,Small,54,40,15,3,2017,309773
+Subaru,WRX,4-DOOR CARS,Small,54,31,24,4,2015-17,196935
+Nissan,Juke 4WD,4-DOOR CARS,Small,65,22,48,0,2014-17,115704
+Ford,Focus,4-DOOR CARS,Small,68,48,19,9,2014-17,1329370
+Nissan,Sentra,4-DOOR CARS,Small,81,53,26,11,2014-17,1950927
+Nissan,Versa,4-DOOR CARS,Small,88,49,42,14,2014-17,828218
+Hyundai,Elantra,4-DOOR CARS,Small,89,71,15,9,2017,267872
+Kia,Forte,4-DOOR CARS,Small,89,63,24,2,2014-17,778579
+Chevrolet,Sonic,4-DOOR CARS,Small,98,64,34,10,2014-17,418163
+Subaru,Legacy,4-DOOR CARS,Midsize,14,9,5,2,2015-17,32925
+Ford,Fusion plug-in hybrid,4-DOOR CARS,Midsize,15,0,15,0,2014-17,100620
+Ford,Fusion 4WD,4-DOOR CARS,Midsize,22,11,11,0,2014-17,135342
+Ford,Fusion hybrid 2WD,4-DOOR CARS,Midsize,34,28,5,6,2014-17,294573
+Toyota,Camry,4-DOOR CARS,Midsize,34,23,11,4,2014-17,3622339
+Honda,Accord,4-DOOR CARS,Midsize,34,24,9,3,2014-17,320332
+Kia,Optima,4-DOOR CARS,Midsize,37,15,23,10,2016-17,302125
+Ford,Fusion 2WD,4-DOOR CARS,Midsize,39,29,10,3,2014-17,2181340
+Toyota,Camry hybrid,4-DOOR CARS,Midsize,41,35,5,0,2014-17,298667
+Mazda,6 2WD,4-DOOR CARS,Midsize,41,24,18,4,2014-17,569238
+Hyundai,Sonata,4-DOOR CARS,Midsize,48,25,23,8,2015-17,1151787
+Chrysler,200 2WD,4-DOOR CARS,Midsize,52,21,32,3,2015-17,784265
+Volkswagen,Jetta,4-DOOR CARS,Midsize,53,34,19,4,2014-17,1298283
+Nissan,Altima,4-DOOR CARS,Midsize,59,37,21,5,2014-17,3228915
+Chevrolet,Malibu,4-DOOR CARS,Midsize,61,36,24,13,2016-17,479411
+Buick,Verano,4-DOOR CARS,Midsize,68,35,33,14,2014-17,332522
+Nissan,Maxima,4-DOOR CARS,Midsize,68,33,38,4,2016-17,226899
+Chrysler,300 4WD,4-DOOR CARS,Large,14,10,5,0,2014-17,158207
+Dodge,Charger 4WD,4-DOOR CARS,Large,28,14,14,0,2014-17,107515
+Chrysler,300 2WD,4-DOOR CARS,Large,46,32,14,7,2014-17,337115
+Buick,Regal 2WD,4-DOOR CARS,Large,50,24,29,24,2014-17,161880
+Chevrolet,Impala,4-DOOR CARS,Large,57,39,16,9,2014-17,90514
+Dodge,Charger Hemi 2WD,4-DOOR CARS,Large,58,17,43,8,2014-17,199434
+Dodge,Charger 2WD,4-DOOR CARS,Large,62,27,39,13,2014-17,607436
+MINI,Cooper,2-DOOR CARS,Mini,10,10,0,0,2014-17,149663
+Fiat,500,2-DOOR CARS,Mini,95,60,38,37,2014-17,123127
+Volkswagen,Beetle,2-DOOR CARS,Small,11,6,6,6,2014-17,132929
+Hyundai,Veloster,2-DOOR CARS,Small,63,39,25,19,2014-17,123455
+Honda,Accord,2-DOOR CARS,Midsize,48,18,30,0,2014-17,235384
+Dodge,Challenger 2WD,2-DOOR CARS,Large,65,34,30,12,2014-17,521293
+Ford,Mustang coupe,SPORTS CARS,Midsize,45,42,3,0,2015-17,279661
+Chevrolet,Corvette coupe,SPORTS CARS,Midsize,54,4,53,13,2014-17,192396
+Ford,Mustang GT coupe,SPORTS CARS,Midsize,81,58,23,12,2015-17,202978
+Chevrolet,Camaro coupe,SPORTS CARS,Large,39,6,35,18,2016-17,134504
+Mercedes-Benz,C-Class sedan 4WD,LUXURY CARS,Midsize,0,0,0,0,2015-17,25485
+Lexus,CT 200h,LUXURY CARS,Midsize,6,6,0,0,2014-17,11881
+Acura,TLX 2WD,LUXURY CARS,Midsize,21,13,10,0,2015-17,240896
+Mercedes-Benz,C-Class sedan 2WD,LUXURY CARS,Midsize,28,10,17,9,2015-17,179762
+Cadillac,ATS 2WD,LUXURY CARS,Midsize,31,21,11,6,2014-17,146586
+Infiniti,Q50 4WD,LUXURY CARS,Midsize,39,0,39,11,2014-17,218675
+BMW,320i 2WD,LUXURY CARS,Midsize,42,17,29,0,2014-17,137322
+Lincoln,MKZ 2WD,LUXURY CARS,Midsize,55,32,25,6,2014-17,126721
+Infiniti,Q50 2WD,LUXURY CARS,Midsize,60,18,44,19,2014-17,213505
+Audi,A6 4WD,LUXURY CARS,Large,16,4,13,9,2014-17,184986
+Cadillac,XTS 2WD,LUXURY CARS,Very large,21,21,0,0,2014-17,147596
+Honda,Fit,STATION WAGONS,Mini,48,31,17,4,2015-17,412993
+Ford,Fiesta,STATION WAGONS,Mini,65,58,5,0,2014-17,28993
+Hyundai,Accent,STATION WAGONS,Mini,81,64,17,9,2014-17,18481
+Subaru,XV Crosstrek,STATION WAGONS,Small,18,10,8,2,2014-17,769213
+Toyota,Prius v,STATION WAGONS,Small,19,19,0,0,2014-17,244190
+Fiat,500L,STATION WAGONS,Small,24,24,0,0,2014-17,112469
+Ford,C-Max hybrid,STATION WAGONS,Small,37,37,0,0,2014-17,115963
+Ford,Focus,STATION WAGONS,Small,60,34,26,6,2014-17,841734
+Kia,Soul,STATION WAGONS,Small,70,50,19,10,2014-17,1346860
+Chevrolet,Sonic,STATION WAGONS,Small,74,59,13,13,2014-17,244549
+Nissan,Versa Note,STATION WAGONS,Small,96,80,12,7,2014-17,600256
+Subaru,Outback,STATION WAGONS,Midsize,3,2,1,0,2015-17,769921
+Toyota,Sienna 4WD,MINIVANS,Very large,7,4,4,0,2014-17,206725
+Honda,Odyssey,MINIVANS,Very large,8,4,5,2,2014-17,1289578
+Toyota,Sienna 2WD,MINIVANS,Very large,20,16,4,2,2014-17,167897
+Kia,Sedona,MINIVANS,Very large,21,7,14,11,2015-17,21530
+Chrysler,Pacifica,MINIVANS,Very large,27,21,5,0,2017,156682
+Dodge,Grand Caravan,MINIVANS,Very large,41,26,15,5,2014-17,1226909
+Mitsubishi,Outlander 4WD,SUVs,Small,7,7,0,0,2014-17,101350
+Honda,HR-V 4WD,SUVs,Small,9,0,9,5,2016-17,177447
+Toyota,RAV4 4WD,SUVs,Small,10,10,0,0,2017,197926
+Nissan,Rogue 4WD,SUVs,Small,13,9,5,3,2014-17,1202111
+Jeep,Renegade 2WD,SUVs,Small,13,8,4,0,2015-17,180718
+Subaru,Forester,SUVs,Small,17,9,9,2,2014-17,1477741
+Hyundai,Tucson 4WD,SUVs,Small,18,12,5,0,2016-17,148722
+Honda,CR-V 2WD,SUVs,Small,18,18,0,0,2017,110439
+Ford,Escape 4WD,SUVs,Small,24,16,7,4,2014-17,1351272
+Volkswagen,Tiguan 2WD,SUVs,Small,24,10,15,5,2014-17,156404
+Honda,CR-V 4WD,SUVs,Small,25,20,4,0,2017,20294
+Jeep,Renegade 4WD,SUVs,Small,26,22,2,2,2015-17,341425
+Toyota,RAV4 2WD,SUVs,Small,28,28,0,0,2017,153216
+Volkswagen,Tiguan 4WD,SUVs,Small,29,16,16,0,2014-17,145607
+Ford,Escape 2WD,SUVs,Small,29,22,6,2,2014-17,1768510
+Jeep,Patriot 4WD,SUVs,Small,36,24,12,2,2014-17,503880
+Jeep,Compass 4WD,SUVs,Small,40,21,20,8,2014-17,401789
+Mitsubishi,Outlander Sport 2WD,SUVs,Small,43,32,12,12,2014-17,1972
+Chevrolet,Trax 4WD,SUVs,Small,45,15,33,0,2015-17,166173
+Jeep,Wrangler 2-door 4WD,SUVs,Small,46,23,23,20,2014-17,43861
+Honda,HR-V 2WD,SUVs,Small,50,36,11,6,2016-17,140934
+Nissan,Rogue 2WD,SUVs,Small,51,38,11,1,2014-17,891138
+Jeep,Compass 2WD,SUVs,Small,55,40,15,0,2014-17,321269
+Mitsubishi,Outlander 2WD,SUVs,Small,55,31,22,15,2014-17,105863
+Jeep,Patriot 2WD,SUVs,Small,60,49,8,5,2014-17,618728
+Hyundai,Tucson 2WD,SUVs,Small,61,37,21,9,2016-17,185863
+Mitsubishi,Outlander Sport 4WD,SUVs,Small,67,45,21,5,2014-17,152405
+Chevrolet,Trax 2WD,SUVs,Small,73,40,37,20,2015-17,233527
+Honda,Pilot 4WD,SUVs,Midsize,11,11,0,0,2016-17,354126
+Kia,Sorento 4WD,SUVs,Midsize,12,4,8,8,2016-17,192211
+Toyota,4Runner 4WD,SUVs,Midsize,13,4,11,7,2014-17,667774
+Toyota,Highlander 4WD,SUVs,Midsize,13,0,13,0,2017,120591
+Ford,Explorer 4WD,SUVs,Midsize,13,10,3,1,2016-17,604755
+Hyundai,Santa Fe 4WD,SUVs,Midsize,13,0,13,7,2014-17,116678
+Jeep,Grand Cherokee 4WD,SUVs,Midsize,16,11,6,3,2014-17,1901695
+Hyundai,Santa Fe 2WD,SUVs,Midsize,16,0,16,0,2014-17,126743
+Honda,Pilot 2WD,SUVs,Midsize,17,5,15,14,2016-17,161750
+Jeep,Grand Cherokee 2WD,SUVs,Midsize,17,11,5,0,2014-17,465291
+GMC,Terrain 4WD,SUVs,Midsize,18,12,6,4,2014-17,3695
+Nissan,Murano 4WD,SUVs,Midsize,19,19,0,0,2015-17,25149
+Nissan,Murano 2WD,SUVs,Midsize,19,19,0,0,2015-17,184170
+Nissan,Pathfinder 4WD,SUVs,Midsize,20,7,14,12,2014-17,4504
+Ford,Edge 4WD,SUVs,Midsize,20,10,11,5,2015-17,445718
+Jeep,Cherokee 4WD,SUVs,Midsize,20,12,7,2,2014-17,123391
+Ford,Edge 2WD,SUVs,Midsize,21,11,12,0,2015-17,269325
+Dodge,Journey 4WD,SUVs,Midsize,23,20,3,0,2014-17,24743
+Nissan,Pathfinder 2WD,SUVs,Midsize,25,20,4,2,2014-17,386988
+Jeep,Cherokee 2WD,SUVs,Midsize,26,19,8,1,2014-17,601120
+Chevrolet,Equinox 4WD,SUVs,Midsize,29,20,9,2,2014-17,795787
+Jeep,Wrangler 4-door 4WD,SUVs,Midsize,31,15,17,10,2014-17,1480243
+Kia,Sorento 2WD,SUVs,Midsize,32,12,22,0,2016-17,244783
+GMC,Terrain 2WD,SUVs,Midsize,33,22,10,1,2014-17,595721
+Ford,Explorer 2WD,SUVs,Midsize,33,21,11,6,2016-17,279681
+Toyota,4Runner 2WD,SUVs,Midsize,34,23,10,0,2014-17,235145
+Ford,Flex 2WD,SUVs,Midsize,38,38,0,0,2014-17,166244
+Hyundai,Santa Fe Sport 4WD,SUVs,Midsize,39,9,35,15,2014-17,296306
+Chevrolet,Equinox 2WD,SUVs,Midsize,45,32,12,6,2014-17,1523947
+Dodge,Journey 2WD,SUVs,Midsize,45,26,19,12,2014-17,728704
+Hyundai,Santa Fe Sport 2WD,SUVs,Midsize,51,26,26,15,2014-17,421969
+Dodge,Durango 2WD,SUVs,Large,11,7,3,3,2014-17,248854
+Dodge,Durango 4WD,SUVs,Large,15,2,15,9,2014-17,414697
+Ford,Expedition 4WD,SUVs,Large,17,6,11,6,2014-17,137374
+Chevrolet,Tahoe 4WD,SUVs,Large,19,12,6,4,2015-17,412450
+Buick,Enclave 2WD,SUVs,Large,20,15,4,2,2014-17,349535
+Buick,Enclave 4WD,SUVs,Large,24,24,0,0,2014-17,254700
+GMC,Yukon 4WD,SUVs,Large,27,14,14,13,2015-17,232618
+Chevrolet,Traverse 2WD,SUVs,Large,27,16,11,3,2014-17,636416
+Chevrolet,Tahoe 2WD,SUVs,Large,28,13,17,7,2015-17,322663
+Chevrolet,Traverse 4WD,SUVs,Large,29,19,9,2,2014-17,435946
+GMC,Yukon 2WD,SUVs,Large,40,0,40,26,2015-17,119156
+Ford,Expedition 2WD,SUVs,Large,55,24,29,15,2014-17,105353
+GMC,Yukon XL 1500 4WD,SUVs,Very large,0,0,0,0,2015-17,186403
+Chevrolet,Suburban 1500 4WD,SUVs,Very large,8,8,0,0,2015-17,27888
+Ford,Expedition EL 4WD,SUVs,Very large,16,16,0,0,2014-17,126577
+Chevrolet,Suburban 1500 2WD,SUVs,Very large,25,0,25,0,2015-17,141444
+Land Rover,Range Rover Evoque 4WD,Luxury SUVs,Small,0,0,0,0,2014-17,10437
+Buick,Encore 4WD,Luxury SUVs,Small,44,10,39,24,2014-17,221553
+Buick,Encore 2WD,Luxury SUVs,Small,46,34,11,7,2014-17,423729
+Lexus,NX 200t 4WD,Luxury SUVs,Midsize,0,0,0,0,2015-17,133129
+Infiniti,QX60 2WD,Luxury SUVs,Midsize,0,0,0,0,2014-17,144301
+BMW,X5 4WD,Luxury SUVs,Midsize,4,2,2,0,2014-17,34871
+Acura,RDX 2WD,Luxury SUVs,Midsize,4,4,0,0,2014-17,189668
+BMW,X3 4WD,Luxury SUVs,Midsize,5,0,5,5,2014-17,334302
+Infiniti,QX60 4WD,Luxury SUVs,Midsize,9,0,9,3,2014-17,24380
+Audi,Q5 4WD,Luxury SUVs,Midsize,12,4,8,4,2014-17,412963
+Acura,RDX 4WD,Luxury SUVs,Midsize,12,12,0,0,2014-17,293285
+Lexus,NX 200t 2WD,Luxury SUVs,Midsize,15,0,15,0,2015-17,130217
+Volvo,XC60 4WD,Luxury SUVs,Midsize,29,0,29,25,2014-17,122100
+Porsche,Cayenne 4WD,Luxury SUVs,Large,0,0,0,0,2014-17,140637
+Lexus,GX 460 4WD,Luxury SUVs,Large,3,0,3,4,2014-17,226966
+Cadillac,Escalade 4WD,Luxury SUVs,Large,6,0,6,0,2015-17,120388
+Land Rover,Range Rover 4WD,Luxury SUVs,Large,15,0,15,18,2014-17,130863
+GMC,Canyon Crew Cab 4WD,Pickups,Small,15,7,8,0,2015-17,102690
+Chevrolet,Colorado Ext. Cab 2WD,Pickups,Small,15,0,15,8,2015-17,10149
+Chevrolet,Colorado Crew Cab 2WD,Pickups,Small,16,5,11,6,2015-17,141790
+Nissan,Frontier Crew Cab short bed 4WD,Pickups,Small,21,7,15,0,2014-17,212739
+Toyota,Tacoma Double Cab short bed 4WD,Pickups,Small,21,12,9,3,2016-17,255258
+Toyota,Tacoma Double Cab short bed 2WD,Pickups,Small,29,17,11,0,2016-17,147758
+Chevrolet,Colorado Crew Cab 4WD,Pickups,Small,32,21,10,7,2015-17,240560
+Nissan,Frontier King Cab 2WD,Pickups,Small,42,37,4,5,2014-17,172775
+Nissan,Frontier Crew Cab short bed 2WD,Pickups,Small,58,49,11,7,2014-17,220126
+Toyota,Tundra Crew Max 4WD,Pickups,Large,7,0,7,2,2014-17,51093
+Ford,F-150 Supercab 4WD,Pickups,Large,11,2,10,2,2015-17,395598
+Toyota,Tundra Double Cab short bed 4WD,Pickups,Large,13,5,8,0,2014-17,287843
+Ram,1500 Crew Cab long bed 4WD,Pickups,Large,16,8,8,9,2014-17,188357
+Toyota,Tundra Double Cab short bed 2WD,Pickups,Large,17,13,4,0,2014-17,174791
+GMC,Sierra 1500 Ext. Cab 4WD,Pickups,Large,20,13,7,0,2014-17,343354
+Ford,F-150 Supercab 2WD,Pickups,Large,23,12,12,0,2015-17,193828
+Chevrolet,Silverado 1500 Ext. Cab 4WD,Pickups,Large,24,13,11,3,2014-17,1152425
+Ford,F-150 Crew Cab 4WD,Pickups,Large,25,11,15,7,2015-17,1552783
+Chevrolet,Silverado 1500 Crew Cab 4WD,Pickups,Large,26,15,11,4,2014-17,1769896
+GMC,Sierra 1500 Ext. Cab 2WD,Pickups,Large,27,27,0,0,2014-17,112477
+GMC,Sierra 1500 Crew Cab 4WD,Pickups,Large,29,14,15,5,2014-17,871192
+Ram,1500 Quad Cab 4WD,Pickups,Large,30,24,6,5,2014-17,605424
+Ford,F-150 Crew Cab 2WD,Pickups,Large,30,20,9,3,2015-17,498303
+Chevrolet,Silverado 1500 2WD,Pickups,Large,32,19,13,3,2014-17,236798
+Toyota,Tundra Crew Max 2WD,Pickups,Large,34,22,13,0,2014-17,176345
+Chevrolet,Silverado 1500 Ext. Cab 2WD,Pickups,Large,37,24,13,6,2014-17,432361
+Ram,1500 Crew Cab short bed 2WD,Pickups,Large,37,21,17,10,2014-17,416552
+Ram,1500 Crew Cab short bed 4WD,Pickups,Large,39,17,22,10,2014-17,1209652
+Ram,1500 Quad Cab 2WD,Pickups,Large,41,16,25,5,2014-17,346230
+Ford,F-150 2WD,Pickups,Large,42,36,7,8,2015-17,107246
+Ram,1500 short bed 2WD,Pickups,Large,44,22,22,16,2014-17,103962
+GMC,Sierra 1500 Crew Cab 2WD,Pickups,Large,48,33,15,6,2014-17,264813
+Chevrolet,Silverado 1500 4WD,Pickups,Large,51,26,26,14,2014-17,119212
+Chevrolet,Silverado 1500 Crew Cab 2WD,Pickups,Large,54,30,25,3,2014-17,713318
+Chevrolet,Silverado 2500 Ext. Cab 4WD,Pickups,Very large,15,10,5,0,2015-17,150684
+Chevrolet,Silverado 3500 Crew Cab 4WD,Pickups,Very large,15,0,15,5,2015-17,151813
+Chevrolet,Silverado 2500 Crew Cab 4WD,Pickups,Very large,17,13,4,2,2015-17,526309
+GMC,Sierra 2500 Crew Cab 4WD,Pickups,Very large,22,6,38,11,2015-17,274346
+Ford,F250 Crew Cab 4WD,Pickups,Very large,30,15,15,0,2017,150292
+Ram,2500 Crew Cab short bed 4WD,Pickups,Very large,30,13,17,6,2014-17,58038
+Ram,3500 Crew Cab long bed 4WD,Pickups,Very large,32,19,13,3,2014-17,23985
+Ram,2500 Mega Cab 4WD,Pickups,Very large,47,18,31,0,2014-17,100187
+Ram,2500 Crew Cab long bed 4WD,Pickups,Very large,63,26,38,11,2014-17,144323
