@@ -6,7 +6,8 @@
     "dev": "next dev -p 80",
     "build": "next build",
     "start": "next start -p 80",
-    "lint": "next lint"
+    "lint": "next lint",
+    "export": "next export"
   },
   "dependencies": {
     "fuzzyset": "^1.0.7",
