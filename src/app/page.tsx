@@ -1,80 +1,218 @@
 "use client";
 
 import React, { useState, useEffect } from 'react';
-import Papa from 'papaparse';
+import { useRouter } from 'next/navigation';
+import makesList from '../util/constants.json';
 
-interface CsvRow {
-  Make: string;
-  Model: string;
-  // Add other properties based on your CSV columns
-}
+// Reusable Components =======================
 
+const OrDivider = () => (
+  <div className="flex items-center w-full mb-8 mt-24">
+    <div className="flex-1 h-px bg-gray-300" />
+    <span className="text-4xl px-4 text-gray-500 font-large">OR</span>
+    <div className="flex-1 h-px bg-gray-300" />
+  </div>
+);
+
+const Dropdown = ({
+  value,
+  options,
+  placeholder,
+  onChange,
+  disabled = false,
+  className = '',
+}: {
+  value: string;
+  options: string[];
+  placeholder: string;
+  onChange: (value: string) => void;
+  disabled?: boolean;
+  className?: string;
+}) => (
+  <select
+    className={`border border-gray-300 px-6 py-4 focus:outline-none text-black/60 text-lg bg-white/70 shadow-md ${className}`}
+    value={value}
+    onChange={(e) => onChange(e.target.value)}
+    disabled={disabled}
+  >
+    <option value="">{placeholder}</option>
+    {options.map((option) => (
+      <option key={option} value={option}>
+        {option}
+      </option>
+    ))}
+  </select>
+);
+
+const SearchInput = ({
+  value,
+  onChange,
+  onSearch,
+  placeholder = 'Search...',
+}: {
+  value: string;
+  onChange: (value: string) => void;
+  onSearch: () => void;
+  placeholder?: string;
+}) => (
+  <div className="flex justify-center items-center w-full max-w-2xl">
+    <input
+      type="text"
+      placeholder={placeholder}
+      value={value}
+      onChange={(e) => onChange(e.target.value)}
+      className="flex-1 border border-gray-300 px-8 py-4 rounded-l-full focus:outline-none text-black/60 focus:border-blue-500 text-lg bg-white/70 placeholder:text-black/30 shadow-md"
+      onKeyDown={(e) => e.key === 'Enter' && onSearch()}
+    />
+    <SearchButton onClick={onSearch} />
+  </div>
+);
+
+const SearchButton = ({ onClick }: { onClick: () => void }) => (
+  <button
+    onClick={onClick}
+    className="px-10 py-4 bg-blue-500/80 text-white/80 rounded-r-full text-lg shadow-md hover:bg-blue-600/90 transition-colors duration-200"
+  >
+    Search
+  </button>
+);
+
+const PageHeader = ({
+  title,
+  subtitle,
+}: {
+  title: string;
+  subtitle: string;
+}) => (
+  <>
+    <h1 className="text-6xl font-light text-white/80 mb-4">{title}</h1>
+    <h2 className="text-2xl font-normal text-white/80 mb-2">{subtitle}</h2>
+  </>
+);
+
+const DropdownSection = ({
+  makes,
+  models,
+  selectedMake,
+  selectedModel,
+  onMakeChange,
+  onModelChange,
+}: {
+  makes: string[];
+  models: string[];
+  selectedMake: string;
+  selectedModel: string;
+  onMakeChange: (make: string) => void;
+  onModelChange: (model: string) => void;
+}) => (
+  <div className="flex flex-col items-center w-full max-w-2xl mt-8">
+    <div className="flex w-full gap-4">
+      <Dropdown
+        value={selectedMake}
+        options={makes}
+        placeholder="Select Make"
+        onChange={onMakeChange}
+        className="flex-1 rounded-l-full"
+      />
+      <Dropdown
+        value={selectedModel}
+        options={models}
+        placeholder="Select Model"
+        onChange={onModelChange}
+        disabled={!selectedMake}
+        className="flex-1 rounded-r-full"
+      />
+    </div>
+  </div>
+);
+
+// Main Component =============================
 
 export default function Home() {
+  const router = useRouter();
   const [searchTerm, setSearchTerm] = useState('');
-  const [searchResult, setSearchResult] = useState('');
+  const [makeModelList, setMakeModelList] = useState<any[]>([]);
+  const [makeOptions, setMakeOptions] = useState<string[]>([]);
+  const [modelOptions, setModelOptions] = useState<string[]>([]);
+  const [selectedMake, setSelectedMake] = useState('');
+  const [selectedModel, setSelectedModel] = useState('');
 
-  const handleSearch = async () => {
+  // Data initialization
+  useEffect(() => {
     try {
-      // Load the CSV file
-      const response = await fetch('/2020.csv');
-  
-      // Check if the file was loaded successfully
-      if (!response.ok) {
-        throw new Error(`Failed to load CSV file (HTTP status: ${response.status})`);
+      setMakeModelList(makesList.data);
+      setMakeOptions(makesList.data.map((item: any) => item.make));
+    } catch (error) {
+      console.error('Failed to initialize vehicle data:', error);
+    }
+  }, []);
+
+  // Model options update
+  useEffect(() => {
+    const updateModels = () => {
+      if (!selectedMake) {
+        setModelOptions([]);
+        setSelectedModel('');
+        return;
       }
-  
-      // Parse the CSV data
-      const csvData = await response.text();
-      const parsedData = Papa.parse<CsvRow>(csvData, { header: true, skipEmptyLines: true });
-  
-      // Implement search logic based on user input
-      const results = parsedData.data.filter((row) => {
-        const makeMatch = row.Make.toLowerCase().includes(searchTerm.toLowerCase());
-        const modelMatch = row.Model.toLowerCase().includes(searchTerm.toLowerCase());
-        return makeMatch || modelMatch;
-      });
-  
-      // Check if there are results
-      if (results.length > 0) {
-        // Set the search result
-        setSearchResult(JSON.stringify(results, null, 2));
-      } else {
-        // Handle the case when there are no results
-        setSearchResult('No results found');
-      }
-    } catch (error: any) {
-      // Handle errors, e.g., log or display an error message
-      console.error('Error loading or parsing CSV file:', error.message);
-      setSearchResult('Error loading or parsing CSV file');
+      
+      const selectedVehicle = makeModelList.find(
+        (item) => item.make === selectedMake
+      );
+      setModelOptions(selectedVehicle?.models || []);
+      setSelectedModel('');
+    };
+
+    updateModels();
+  }, [selectedMake, makeModelList]);
+
+  // Navigation handlers
+  const handleNavigation = (path: string, params: Record<string, string>) => {
+    const query = new URLSearchParams(params).toString();
+    router.push(`${path}?${query}`);
+  };
+
+  const handleTextSearch = () => {
+    if (searchTerm.trim()) {
+      handleNavigation('/search', { query: searchTerm.trim() });
     }
   };
-  
 
+  // Auto-navigate when both selections are made
   useEffect(() => {
-    // Empty useEffect to make it a Client Component
-  }, []);
+    if (selectedMake && selectedModel) {
+      handleNavigation('/match', {
+        make: selectedMake,
+        model: selectedModel,
+      });
+    }
+  }, [selectedMake, selectedModel, router]);
 
   return (
     <main className="flex max-h-screen flex-col items-center justify-between p-24">
       <div className="flex flex-col items-center justify-center h-screen">
-        <h1 className="text-3xl">AutoCrashData</h1>
-        <h2 className="text-xl font-bold mb-4">Discover direct stats about automobiles crash</h2>
-        <div className="flex justify-center items-center">
-          <input
-            type="text"
-            placeholder="Search by Model or Make"
-            value={searchTerm}
-            onChange={(e) => setSearchTerm(e.target.value)}
-            className="border border-gray-300 px-4 py-2 rounded-md focus:outline-none text-black focus:border-blue-500"
-          />
-          <button onClick={handleSearch} className="ml-2 px-4 py-2 bg-blue-500 text-white rounded-md">
-            Search
-          </button>
-        </div>
-        <div className="mt-4">
-          <pre>{searchResult}</pre>
-        </div>
+        <PageHeader
+          title="AutoCrashData"
+          subtitle="Discover direct stats about automobile crashes"
+        />
+
+        <SearchInput
+          value={searchTerm}
+          onChange={setSearchTerm}
+          onSearch={handleTextSearch}
+          placeholder="Search by Model or Make"
+        />
+
+        <OrDivider />
+
+        <DropdownSection
+          makes={makeOptions}
+          models={modelOptions}
+          selectedMake={selectedMake}
+          selectedModel={selectedModel}
+          onMakeChange={setSelectedMake}
+          onModelChange={setSelectedModel}
+        />
       </div>
     </main>
   );
